@@ -1,0 +1,1736 @@
+mental_health,age,gender,marital_status,region,stress,life_satisfaction,depression,anxiety,mental_health_binary,education,province
+3.0,25–34,Female,3.0,,High,6.0,1.0,1.0,Good,,AB
+4.0,65+,Female,4.0,,Very High,6.0,1.0,1.0,Poor,,AB
+1.0,65+,Male,1.0,,High,5.0,1.0,1.0,Good,,AB
+3.0,55–64,Female,4.0,,Average,6.0,1.0,1.0,Good,,AB
+2.0,65+,Female,2.0,Urban,Moderate,10.0,2.0,2.0,Good,College,ON
+1.0,55–64,Male,3.0,,Average,10.0,2.0,2.0,Good,,AB
+4.0,35–44,Male,3.0,,High,4.0,1.0,1.0,Poor,University,AB
+4.0,65+,Female,2.0,Rural,High,6.0,1.0,1.0,Poor,University,QC
+1.0,65+,Female,1.0,,Average,10.0,2.0,2.0,Good,,AB
+1.0,65+,Male,1.0,Rural,Low,10.0,2.0,2.0,Good,,QC
+3.0,25–34,Female,3.0,Urban,High,4.0,1.0,1.0,Good,High School,ON
+2.0,55–64,Female,1.0,,Average,6.0,1.0,2.0,Good,,BC
+4.0,55–64,Female,1.0,,High,5.0,1.0,2.0,Poor,Less than High School,AB
+3.0,15–24,Female,3.0,,High,5.0,1.0,1.0,Good,Less than High School,AB
+4.0,25–34,Male,3.0,,High,5.0,1.0,1.0,Poor,High School,AB
+4.0,45–54,Male,3.0,,Average,6.0,1.0,1.0,Poor,,AB
+3.0,55–64,Female,1.0,,Average,10.0,2.0,1.0,Good,,AB
+1.0,15–24,Female,3.0,,Average,10.0,1.0,1.0,Good,Less than High School,AB
+1.0,25–34,Male,3.0,Urban,Moderate,10.0,2.0,2.0,Good,High School,ON
+2.0,55–64,Female,1.0,,Moderate,10.0,1.0,2.0,Good,University,AB
+2.0,65+,Male,4.0,,High,10.0,1.0,1.0,Good,College,AB
+5.0,55–64,Male,1.0,Urban,High,3.0,1.0,1.0,Poor,,ON
+1.0,45–54,Male,1.0,Rural,Moderate,10.0,2.0,2.0,Good,High School,QC
+1.0,55–64,Male,1.0,,Low,10.0,1.0,2.0,Good,,AB
+1.0,65+,Female,1.0,,Moderate,10.0,2.0,2.0,Good,,AB
+4.0,65+,Female,1.0,Rural,Average,4.0,1.0,1.0,Poor,,QC
+4.0,55–64,Female,1.0,,Very High,5.0,1.0,1.0,Poor,,AB
+1.0,35–44,Male,3.0,,Moderate,10.0,2.0,2.0,Good,,AB
+4.0,65+,Female,2.0,,High,5.0,1.0,1.0,Poor,College,AB
+1.0,55–64,Male,2.0,,Average,10.0,2.0,2.0,Good,,AB
+1.0,55–64,Male,1.0,,Low,10.0,2.0,2.0,Good,,AB
+3.0,25–34,Female,3.0,,High,4.0,1.0,1.0,Good,,AB
+1.0,55–64,Male,1.0,,Low,10.0,1.0,2.0,Good,High School,AB
+3.0,55–64,Female,1.0,Urban,Average,4.0,1.0,2.0,Good,Less than High School,ON
+5.0,35–44,Male,3.0,,High,2.0,1.0,1.0,Poor,High School,AB
+4.0,35–44,Female,1.0,,Very High,3.0,1.0,1.0,Poor,High School,AB
+1.0,55–64,Male,1.0,,Low,10.0,2.0,2.0,Good,,AB
+2.0,45–54,Female,1.0,,Moderate,10.0,1.0,2.0,Good,,AB
+2.0,55–64,Female,1.0,,Moderate,10.0,2.0,1.0,Good,,AB
+2.0,55–64,Male,3.0,,Moderate,6.0,1.0,1.0,Good,,AB
+5.0,15–24,Female,3.0,,Average,5.0,1.0,1.0,Poor,High School,BC
+1.0,25–34,Female,2.0,,Moderate,10.0,1.0,2.0,Good,,AB
+1.0,25–34,Male,3.0,,Low,6.0,2.0,2.0,Good,High School,AB
+5.0,55–64,Female,1.0,Urban,High,4.0,1.0,1.0,Poor,,ON
+5.0,25–34,Female,3.0,,Average,6.0,1.0,1.0,Poor,High School,AB
+2.0,15–24,Male,3.0,,Low,10.0,2.0,2.0,Good,Less than High School,AB
+3.0,45–54,Male,3.0,,Average,6.0,1.0,1.0,Good,University,BC
+5.0,65+,Male,1.0,,Average,5.0,1.0,1.0,Poor,,AB
+1.0,35–44,Female,3.0,,Average,10.0,2.0,2.0,Good,University,AB
+3.0,55–64,Female,3.0,,High,10.0,1.0,1.0,Good,University,AB
+3.0,35–44,Female,1.0,,Moderate,6.0,2.0,2.0,Good,High School,AB
+1.0,65+,Male,3.0,,Low,10.0,2.0,2.0,Good,,AB
+1.0,45–54,Male,3.0,Rural,Moderate,10.0,2.0,2.0,Good,High School,QC
+3.0,25–34,Female,3.0,Urban,Low,10.0,2.0,2.0,Good,Less than High School,ON
+1.0,45–54,Male,3.0,,Moderate,10.0,2.0,2.0,Good,,AB
+4.0,15–24,Female,3.0,,High,6.0,2.0,1.0,Poor,High School,AB
+2.0,55–64,Male,1.0,Urban,Moderate,10.0,2.0,2.0,Good,High School,ON
+4.0,55–64,Female,1.0,,Moderate,10.0,2.0,2.0,Poor,,AB
+3.0,35–44,Male,3.0,,Average,10.0,1.0,1.0,Good,,AB
+4.0,65+,Female,2.0,,High,6.0,1.0,1.0,Poor,University,AB
+5.0,55–64,Female,4.0,,High,2.0,1.0,1.0,Poor,College,AB
+1.0,55–64,Male,1.0,Rural,Low,10.0,2.0,2.0,Good,,QC
+5.0,45–54,Female,3.0,,High,4.0,1.0,1.0,Poor,University,AB
+2.0,15–24,Female,3.0,,Average,10.0,1.0,2.0,Good,Less than High School,AB
+2.0,55–64,Female,1.0,,Moderate,10.0,2.0,2.0,Good,University,AB
+3.0,25–34,Female,2.0,,Average,6.0,1.0,1.0,Good,High School,AB
+2.0,15–24,Female,3.0,Urban,Low,10.0,1.0,1.0,Good,,ON
+3.0,65+,Male,1.0,,High,5.0,1.0,2.0,Good,High School,AB
+3.0,45–54,Female,1.0,,Average,10.0,1.0,1.0,Good,,AB
+3.0,25–34,Female,3.0,,Low,10.0,2.0,2.0,Good,High School,AB
+4.0,55–64,Female,4.0,,High,1.0,1.0,1.0,Poor,College,AB
+4.0,35–44,Male,2.0,,Average,6.0,1.0,1.0,Poor,University,AB
+4.0,45–54,Female,2.0,,High,6.0,1.0,1.0,Poor,,BC
+4.0,15–24,Female,3.0,,Very High,6.0,1.0,1.0,Poor,High School,AB
+2.0,45–54,Female,1.0,,Low,10.0,2.0,2.0,Good,Less than High School,AB
+2.0,55–64,Male,1.0,Rural,Average,10.0,2.0,2.0,Good,,QC
+1.0,65+,Male,1.0,,Average,10.0,2.0,2.0,Good,,AB
+3.0,65+,Male,1.0,,Average,6.0,2.0,1.0,Good,University,AB
+4.0,15–24,Male,3.0,,High,6.0,1.0,1.0,Poor,High School,AB
+4.0,25–34,Male,3.0,,Average,5.0,1.0,1.0,Poor,High School,AB
+5.0,25–34,Male,3.0,,Average,6.0,1.0,1.0,Poor,High School,AB
+4.0,35–44,Female,3.0,,Average,6.0,1.0,1.0,Poor,University,AB
+4.0,25–34,Female,3.0,,Average,6.0,1.0,1.0,Poor,High School,AB
+1.0,35–44,Male,3.0,,Low,10.0,1.0,2.0,Good,University,AB
+2.0,25–34,Male,3.0,,Average,10.0,2.0,1.0,Good,,AB
+4.0,15–24,Female,3.0,Urban,High,5.0,1.0,1.0,Poor,High School,ON
+3.0,25–34,Male,3.0,,Average,6.0,1.0,1.0,Good,University,AB
+2.0,55–64,Female,1.0,,Average,10.0,2.0,2.0,Good,University,AB
+4.0,25–34,Male,3.0,,Average,6.0,1.0,1.0,Poor,Less than High School,AB
+4.0,25–34,Female,3.0,,Average,4.0,1.0,1.0,Poor,University,AB
+3.0,35–44,Male,3.0,Rural,Average,10.0,1.0,1.0,Good,,QC
+4.0,15–24,Female,3.0,,High,6.0,1.0,1.0,Poor,Less than High School,AB
+4.0,25–34,Male,3.0,,High,4.0,1.0,2.0,Poor,High School,AB
+3.0,65+,Male,1.0,Urban,Average,5.0,2.0,2.0,Good,,ON
+4.0,45–54,Female,3.0,Rural,Average,10.0,1.0,1.0,Poor,,QC
+3.0,55–64,Female,1.0,Urban,High,6.0,1.0,1.0,Good,,ON
+3.0,15–24,Female,3.0,,High,4.0,1.0,1.0,Good,High School,AB
+4.0,15–24,Male,3.0,,Average,6.0,1.0,1.0,Poor,Less than High School,AB
+2.0,55–64,Female,1.0,,Average,10.0,1.0,1.0,Good,University,AB
+5.0,55–64,Male,4.0,Urban,High,3.0,1.0,1.0,Poor,University,ON
+4.0,65+,Male,4.0,Urban,Average,6.0,1.0,1.0,Poor,High School,ON
+4.0,15–24,Female,3.0,,Average,5.0,1.0,1.0,Poor,High School,BC
+3.0,45–54,Female,1.0,,Average,6.0,1.0,1.0,Good,,AB
+1.0,65+,Male,1.0,,Average,10.0,2.0,2.0,Good,College,AB
+3.0,25–34,Male,3.0,,High,5.0,1.0,1.0,Good,,AB
+3.0,55–64,Female,3.0,,Moderate,6.0,1.0,1.0,Good,,AB
+5.0,25–34,Female,3.0,,High,6.0,1.0,1.0,Poor,High School,AB
+1.0,65+,Male,1.0,,Low,10.0,2.0,2.0,Good,,BC
+4.0,55–64,Male,1.0,,Very High,6.0,1.0,1.0,Poor,,AB
+1.0,15–24,Male,3.0,,Low,10.0,1.0,2.0,Good,Less than High School,AB
+4.0,15–24,Female,3.0,,High,5.0,1.0,1.0,Poor,Less than High School,AB
+4.0,55–64,Female,1.0,,Average,6.0,1.0,1.0,Poor,,AB
+4.0,65+,Male,1.0,,High,3.0,2.0,2.0,Poor,University,AB
+2.0,15–24,Male,3.0,,Average,10.0,2.0,1.0,Good,Less than High School,AB
+2.0,45–54,Male,3.0,,High,10.0,1.0,1.0,Good,,AB
+4.0,55–64,Female,1.0,,Very High,4.0,1.0,1.0,Poor,High School,AB
+2.0,25–34,Male,3.0,,High,6.0,1.0,1.0,Good,High School,AB
+3.0,25–34,Male,3.0,,Average,6.0,2.0,1.0,Good,University,AB
+4.0,65+,Male,1.0,,High,5.0,2.0,2.0,Poor,,AB
+5.0,45–54,Male,4.0,Urban,High,2.0,1.0,1.0,Poor,High School,ON
+3.0,35–44,Male,3.0,,Average,6.0,1.0,1.0,Good,University,AB
+3.0,15–24,Female,3.0,Urban,Average,6.0,1.0,1.0,Good,,ON
+4.0,15–24,Female,3.0,,High,5.0,2.0,1.0,Poor,High School,AB
+3.0,45–54,Female,2.0,,High,6.0,1.0,1.0,Good,,AB
+3.0,35–44,Female,2.0,,Very High,6.0,1.0,1.0,Good,,AB
+5.0,55–64,Male,1.0,,Moderate,6.0,1.0,1.0,Poor,,AB
+5.0,55–64,Female,3.0,,High,4.0,1.0,1.0,Poor,University,AB
+1.0,15–24,Male,3.0,,Low,10.0,2.0,2.0,Good,High School,AB
+4.0,35–44,Female,1.0,,Average,5.0,1.0,1.0,Poor,,AB
+5.0,25–34,Female,3.0,,Very High,6.0,1.0,1.0,Poor,University,AB
+4.0,25–34,Female,2.0,,High,6.0,1.0,1.0,Poor,University,AB
+3.0,55–64,Female,1.0,,High,6.0,1.0,1.0,Good,,AB
+1.0,35–44,Male,3.0,,Low,10.0,1.0,1.0,Good,,AB
+3.0,35–44,Male,3.0,,Average,6.0,1.0,1.0,Good,High School,AB
+3.0,55–64,Male,3.0,,Average,5.0,1.0,2.0,Good,High School,AB
+3.0,25–34,Female,3.0,,Moderate,10.0,2.0,2.0,Good,University,AB
+4.0,65+,Female,4.0,Urban,High,6.0,1.0,1.0,Poor,Less than High School,ON
+3.0,65+,Female,3.0,Urban,Average,6.0,1.0,1.0,Good,University,ON
+4.0,65+,Male,1.0,,Average,6.0,1.0,1.0,Poor,,AB
+5.0,15–24,Female,3.0,Rural,High,4.0,1.0,1.0,Poor,Less than High School,QC
+3.0,55–64,Female,2.0,,High,4.0,1.0,1.0,Good,College,AB
+4.0,65+,Female,1.0,,High,6.0,1.0,1.0,Poor,,AB
+3.0,55–64,Male,3.0,,Average,5.0,1.0,1.0,Good,University,AB
+3.0,45–54,Female,2.0,,Average,6.0,1.0,1.0,Good,,AB
+1.0,55–64,Female,1.0,,Moderate,10.0,2.0,2.0,Good,High School,AB
+3.0,45–54,Female,2.0,,Average,6.0,1.0,1.0,Good,University,AB
+1.0,65+,Female,1.0,,Moderate,10.0,2.0,2.0,Good,,AB
+3.0,65+,Male,1.0,,Average,5.0,1.0,1.0,Good,University,AB
+3.0,55–64,Male,1.0,,Low,10.0,1.0,1.0,Good,,AB
+1.0,65+,Male,1.0,Urban,Average,10.0,1.0,1.0,Good,University,ON
+5.0,55–64,Female,3.0,,Average,4.0,1.0,1.0,Poor,,AB
+1.0,25–34,Female,3.0,,Moderate,10.0,2.0,1.0,Good,,AB
+1.0,35–44,Female,1.0,,Moderate,10.0,2.0,2.0,Good,,AB
+3.0,65+,Male,3.0,,Moderate,6.0,1.0,1.0,Good,College,AB
+4.0,15–24,Female,3.0,,Average,3.0,1.0,1.0,Poor,High School,AB
+1.0,65+,Female,1.0,,High,10.0,2.0,2.0,Good,,AB
+3.0,15–24,Male,3.0,,Average,5.0,1.0,1.0,Good,High School,AB
+4.0,15–24,Male,3.0,,High,3.0,1.0,1.0,Poor,High School,AB
+1.0,25–34,Male,3.0,,Moderate,10.0,2.0,2.0,Good,College,AB
+3.0,55–64,Male,3.0,,Average,6.0,1.0,1.0,Good,High School,AB
+2.0,25–34,Male,3.0,,Average,10.0,2.0,2.0,Good,High School,AB
+5.0,55–64,Female,3.0,,Very High,4.0,1.0,1.0,Poor,High School,BC
+1.0,55–64,Female,1.0,,Low,10.0,2.0,2.0,Good,University,AB
+1.0,15–24,Male,3.0,Rural,Moderate,10.0,2.0,2.0,Good,Less than High School,QC
+4.0,55–64,Female,1.0,Rural,Average,5.0,1.0,1.0,Poor,,QC
+2.0,55–64,Female,1.0,,Moderate,10.0,2.0,2.0,Good,High School,AB
+4.0,55–64,Female,1.0,,Average,6.0,1.0,2.0,Poor,,AB
+5.0,55–64,Female,1.0,,Average,6.0,1.0,2.0,Poor,,AB
+2.0,65+,Female,1.0,Rural,Average,10.0,1.0,2.0,Good,High School,QC
+1.0,25–34,Male,1.0,Urban,Average,10.0,2.0,2.0,Good,High School,ON
+2.0,65+,Female,1.0,,Average,10.0,2.0,2.0,Good,University,AB
+3.0,45–54,Female,3.0,,Average,6.0,1.0,1.0,Good,University,AB
+5.0,25–34,Male,3.0,,High,5.0,1.0,1.0,Poor,High School,AB
+2.0,65+,Male,1.0,,Average,10.0,1.0,2.0,Good,,AB
+2.0,55–64,Female,3.0,,Moderate,10.0,2.0,2.0,Good,Less than High School,AB
+3.0,15–24,Female,3.0,,Average,5.0,1.0,1.0,Good,,AB
+1.0,35–44,Male,1.0,,Average,10.0,2.0,2.0,Good,,AB
+3.0,65+,Male,1.0,,High,6.0,1.0,1.0,Good,College,AB
+2.0,15–24,Male,3.0,,Low,10.0,1.0,1.0,Good,High School,BC
+2.0,15–24,Male,3.0,Urban,Average,10.0,2.0,2.0,Good,Less than High School,ON
+3.0,25–34,Male,3.0,,High,6.0,1.0,1.0,Good,High School,AB
+2.0,55–64,Female,1.0,,Moderate,10.0,1.0,2.0,Good,,AB
+3.0,65+,Female,3.0,,High,6.0,1.0,2.0,Good,,AB
+4.0,65+,Female,5.0,Urban,High,4.0,1.0,1.0,Poor,High School,ON
+4.0,45–54,Female,2.0,,High,6.0,1.0,1.0,Poor,University,AB
+3.0,65+,Female,4.0,,Average,6.0,1.0,1.0,Good,College,AB
+2.0,15–24,Male,3.0,,Low,10.0,2.0,2.0,Good,Less than High School,AB
+1.0,25–34,Female,1.0,Rural,Moderate,10.0,1.0,1.0,Good,University,QC
+1.0,65+,Male,1.0,,Low,10.0,2.0,2.0,Good,Less than High School,AB
+2.0,55–64,Male,3.0,,Low,6.0,2.0,2.0,Good,University,AB
+2.0,55–64,Female,1.0,,High,4.0,1.0,1.0,Good,High School,AB
+1.0,65+,Female,1.0,Urban,Moderate,10.0,2.0,2.0,Good,,ON
+1.0,15–24,Male,3.0,,Low,10.0,2.0,2.0,Good,Less than High School,AB
+4.0,35–44,Male,3.0,,Average,6.0,1.0,1.0,Poor,,AB
+2.0,25–34,Male,3.0,,Moderate,6.0,2.0,2.0,Good,University,AB
+3.0,55–64,Male,3.0,,Moderate,5.0,1.0,1.0,Good,,AB
+3.0,65+,Female,1.0,Rural,Average,5.0,2.0,1.0,Good,,QC
+4.0,45–54,Male,2.0,,Average,5.0,1.0,1.0,Poor,High School,AB
+5.0,65+,Male,1.0,,Very High,6.0,1.0,1.0,Poor,University,AB
+1.0,15–24,Female,3.0,,Average,10.0,2.0,2.0,Good,High School,AB
+1.0,35–44,Male,3.0,,Moderate,10.0,2.0,2.0,Good,,AB
+4.0,25–34,Female,3.0,,High,6.0,1.0,1.0,Poor,University,AB
+3.0,15–24,Female,3.0,,Average,6.0,1.0,1.0,Good,High School,AB
+4.0,25–34,Male,3.0,,Average,4.0,1.0,1.0,Poor,High School,AB
+1.0,55–64,Female,1.0,,Moderate,10.0,1.0,1.0,Good,University,AB
+2.0,45–54,Female,1.0,,Average,10.0,2.0,1.0,Good,,AB
+4.0,55–64,Male,3.0,,High,3.0,1.0,1.0,Poor,Less than High School,AB
+3.0,15–24,Male,3.0,,Low,6.0,1.0,2.0,Good,High School,AB
+1.0,45–54,Male,1.0,,Moderate,10.0,2.0,2.0,Good,Less than High School,AB
+3.0,15–24,Male,3.0,,Average,10.0,1.0,1.0,Good,Less than High School,AB
+4.0,25–34,Female,3.0,,High,6.0,1.0,1.0,Poor,University,AB
+3.0,55–64,Male,1.0,,Average,6.0,1.0,1.0,Good,University,AB
+2.0,15–24,Male,3.0,,Average,10.0,2.0,1.0,Good,Less than High School,AB
+2.0,35–44,Female,3.0,,Low,10.0,2.0,2.0,Good,,AB
+1.0,65+,Male,1.0,,Low,10.0,2.0,2.0,Good,,AB
+3.0,65+,Male,1.0,,Average,5.0,1.0,1.0,Good,,AB
+4.0,55–64,Female,2.0,,High,5.0,1.0,1.0,Poor,,AB
+4.0,35–44,Female,3.0,,High,6.0,1.0,1.0,Poor,University,AB
+3.0,15–24,Female,3.0,,Average,6.0,1.0,1.0,Good,High School,AB
+4.0,35–44,Female,3.0,,High,6.0,1.0,1.0,Poor,High School,AB
+4.0,25–34,Male,3.0,,High,6.0,1.0,1.0,Poor,High School,AB
+1.0,55–64,Female,1.0,,Average,10.0,1.0,2.0,Good,,AB
+2.0,65+,Female,4.0,,Average,6.0,2.0,2.0,Good,,AB
+4.0,35–44,Female,3.0,,Average,6.0,1.0,1.0,Poor,University,AB
+3.0,25–34,Female,3.0,,Average,6.0,1.0,1.0,Good,University,AB
+1.0,55–64,Male,1.0,,Average,10.0,1.0,1.0,Good,,AB
+3.0,25–34,Female,3.0,,Average,6.0,1.0,2.0,Good,High School,AB
+1.0,55–64,Male,1.0,Urban,Average,10.0,2.0,2.0,Good,University,ON
+3.0,65+,Male,1.0,,Low,10.0,2.0,1.0,Good,,AB
+5.0,65+,Male,4.0,,Very High,3.0,1.0,1.0,Poor,Less than High School,BC
+2.0,25–34,Male,3.0,,Average,6.0,1.0,1.0,Good,University,AB
+2.0,55–64,Male,1.0,,Low,10.0,1.0,2.0,Good,,AB
+4.0,25–34,Female,3.0,,Average,6.0,1.0,1.0,Poor,High School,AB
+3.0,65+,Male,1.0,,Average,6.0,1.0,1.0,Good,,AB
+2.0,55–64,Female,1.0,,Low,10.0,2.0,2.0,Good,University,AB
+2.0,25–34,Male,3.0,,Average,10.0,1.0,1.0,Good,High School,AB
+2.0,15–24,Male,3.0,,High,6.0,1.0,1.0,Good,High School,AB
+2.0,45–54,Female,3.0,,High,6.0,1.0,1.0,Good,High School,AB
+1.0,65+,Male,1.0,,Low,10.0,1.0,2.0,Good,University,AB
+1.0,55–64,Female,1.0,,Moderate,10.0,1.0,2.0,Good,,AB
+2.0,45–54,Female,3.0,,Average,6.0,1.0,1.0,Good,,AB
+1.0,45–54,Female,1.0,,Moderate,10.0,2.0,2.0,Good,,AB
+2.0,55–64,Female,1.0,,High,10.0,2.0,1.0,Good,,AB
+5.0,65+,Male,1.0,,High,5.0,1.0,1.0,Poor,High School,AB
+4.0,15–24,Female,3.0,,Average,5.0,1.0,1.0,Poor,High School,AB
+3.0,65+,Female,2.0,,Average,6.0,1.0,1.0,Good,,AB
+3.0,55–64,Female,1.0,,Average,5.0,1.0,1.0,Good,,AB
+1.0,25–34,Female,3.0,,High,10.0,2.0,1.0,Good,High School,AB
+4.0,65+,Female,3.0,,High,3.0,1.0,1.0,Poor,,AB
+2.0,35–44,Female,1.0,,Average,10.0,2.0,2.0,Good,,AB
+1.0,65+,Female,1.0,,Average,10.0,2.0,2.0,Good,,AB
+1.0,45–54,Male,1.0,,Low,10.0,1.0,1.0,Good,,AB
+3.0,45–54,Female,1.0,,Average,10.0,2.0,2.0,Good,,AB
+2.0,15–24,Male,3.0,Urban,Moderate,10.0,2.0,2.0,Good,Less than High School,ON
+4.0,25–34,Female,3.0,Rural,High,5.0,1.0,1.0,Poor,University,QC
+2.0,55–64,Male,1.0,,Average,10.0,2.0,1.0,Good,University,AB
+1.0,65+,Male,1.0,,Low,10.0,2.0,2.0,Good,,AB
+4.0,25–34,Female,3.0,,High,6.0,1.0,1.0,Poor,,AB
+2.0,15–24,Female,3.0,,Average,10.0,1.0,1.0,Good,High School,AB
+3.0,25–34,Female,3.0,,Average,6.0,1.0,1.0,Good,,AB
+2.0,25–34,Female,3.0,,Moderate,6.0,2.0,1.0,Good,High School,AB
+1.0,65+,Male,3.0,,Low,10.0,2.0,2.0,Good,High School,AB
+4.0,65+,Male,4.0,,Average,5.0,2.0,1.0,Poor,,AB
+3.0,25–34,Male,3.0,,Moderate,6.0,1.0,2.0,Good,High School,AB
+3.0,55–64,Male,2.0,,Average,5.0,1.0,1.0,Good,University,AB
+3.0,45–54,Male,3.0,,High,6.0,1.0,1.0,Good,,AB
+4.0,25–34,Female,3.0,,High,6.0,1.0,1.0,Poor,University,AB
+1.0,65+,Male,3.0,Urban,Average,10.0,1.0,2.0,Good,,ON
+4.0,65+,Female,3.0,Urban,High,6.0,1.0,2.0,Poor,University,ON
+3.0,65+,Male,1.0,,Average,4.0,2.0,2.0,Good,,AB
+1.0,55–64,Female,1.0,,Low,10.0,2.0,1.0,Good,,AB
+3.0,55–64,Male,3.0,,Low,10.0,2.0,2.0,Good,High School,AB
+3.0,55–64,Male,4.0,,Average,6.0,1.0,1.0,Good,Less than High School,BC
+4.0,65+,Male,1.0,,Moderate,6.0,2.0,1.0,Poor,,AB
+2.0,65+,Female,4.0,Rural,High,5.0,1.0,2.0,Good,,QC
+2.0,65+,Male,1.0,,Moderate,10.0,1.0,2.0,Good,High School,AB
+1.0,65+,Male,1.0,,Moderate,4.0,1.0,1.0,Good,College,AB
+2.0,55–64,Female,1.0,Urban,Average,10.0,2.0,1.0,Good,University,ON
+4.0,35–44,Female,1.0,,Average,4.0,1.0,1.0,Poor,High School,AB
+5.0,15–24,Female,3.0,,High,5.0,1.0,1.0,Poor,High School,BC
+4.0,25–34,Female,3.0,,Average,4.0,1.0,1.0,Poor,,AB
+2.0,15–24,Female,3.0,,Average,10.0,1.0,1.0,Good,Less than High School,AB
+1.0,65+,Male,1.0,,Low,10.0,2.0,2.0,Good,University,AB
+3.0,15–24,Female,3.0,,Low,3.0,1.0,2.0,Good,High School,AB
+4.0,55–64,Male,3.0,,Average,5.0,1.0,1.0,Poor,High School,AB
+1.0,25–34,Male,3.0,,Low,10.0,2.0,2.0,Good,High School,AB
+1.0,25–34,Female,3.0,,Moderate,10.0,1.0,2.0,Good,University,AB
+3.0,65+,Female,3.0,,Average,5.0,2.0,2.0,Good,,AB
+4.0,45–54,Male,3.0,Urban,Average,5.0,1.0,1.0,Poor,High School,ON
+3.0,55–64,Male,2.0,,High,6.0,1.0,1.0,Good,,AB
+1.0,35–44,Male,2.0,Urban,Low,10.0,2.0,2.0,Good,Less than High School,ON
+1.0,15–24,Male,3.0,,Low,10.0,2.0,2.0,Good,High School,AB
+1.0,65+,Female,1.0,,Moderate,10.0,2.0,2.0,Good,,AB
+5.0,15–24,Female,3.0,,High,5.0,1.0,1.0,Poor,Less than High School,AB
+1.0,55–64,Male,1.0,,Average,10.0,1.0,2.0,Good,,AB
+2.0,55–64,Female,1.0,,High,10.0,1.0,1.0,Good,,AB
+4.0,25–34,Female,3.0,,Average,6.0,1.0,1.0,Poor,,AB
+5.0,25–34,Female,3.0,Urban,Very High,5.0,1.0,1.0,Poor,High School,ON
+4.0,25–34,Female,3.0,,High,6.0,1.0,1.0,Poor,High School,AB
+2.0,45–54,Male,1.0,,Average,10.0,1.0,2.0,Good,University,AB
+3.0,35–44,Male,3.0,,Average,10.0,1.0,1.0,Good,University,AB
+3.0,45–54,Female,1.0,,High,10.0,2.0,1.0,Good,University,AB
+5.0,35–44,Male,2.0,,High,0.0,1.0,1.0,Poor,Less than High School,AB
+1.0,55–64,Male,1.0,,Moderate,10.0,2.0,2.0,Good,,AB
+3.0,65+,Female,4.0,,Average,6.0,1.0,1.0,Good,,AB
+5.0,25–34,Male,3.0,,High,5.0,1.0,1.0,Poor,High School,AB
+3.0,55–64,Male,1.0,,Average,6.0,1.0,1.0,Good,High School,AB
+4.0,65+,Female,5.0,,Average,5.0,1.0,1.0,Poor,Less than High School,AB
+4.0,55–64,Male,2.0,,High,5.0,1.0,2.0,Poor,High School,BC
+1.0,55–64,Male,1.0,,High,10.0,2.0,2.0,Good,High School,AB
+5.0,45–54,Female,1.0,,Average,4.0,1.0,1.0,Poor,High School,BC
+2.0,65+,Female,1.0,Urban,Average,10.0,2.0,1.0,Good,,ON
+4.0,25–34,Male,3.0,,Moderate,5.0,1.0,1.0,Poor,High School,AB
+3.0,55–64,Female,1.0,Urban,Average,10.0,1.0,1.0,Good,High School,ON
+2.0,55–64,Male,1.0,,Average,10.0,2.0,2.0,Good,,AB
+2.0,55–64,Male,1.0,,Average,10.0,2.0,1.0,Good,,AB
+3.0,45–54,Female,3.0,,Very High,6.0,1.0,1.0,Good,,AB
+1.0,55–64,Male,1.0,,Low,10.0,2.0,2.0,Good,,AB
+2.0,15–24,Male,3.0,,Average,10.0,2.0,2.0,Good,High School,AB
+1.0,45–54,Male,1.0,Urban,Moderate,10.0,2.0,2.0,Good,High School,ON
+2.0,25–34,Female,3.0,,Average,10.0,2.0,1.0,Good,,AB
+1.0,65+,Male,1.0,,Average,10.0,1.0,1.0,Good,University,AB
+2.0,35–44,Female,3.0,,Average,10.0,1.0,1.0,Good,,AB
+2.0,55–64,Male,1.0,,High,10.0,2.0,1.0,Good,Less than High School,AB
+4.0,65+,Male,1.0,,Average,5.0,2.0,2.0,Poor,,AB
+2.0,25–34,Male,2.0,Urban,High,6.0,1.0,1.0,Good,College,ON
+2.0,35–44,Female,2.0,Urban,Low,10.0,1.0,1.0,Good,College,ON
+4.0,25–34,Male,3.0,,Very High,5.0,1.0,1.0,Poor,College,AB
+1.0,45–54,Male,3.0,,Average,10.0,2.0,1.0,Good,,AB
+4.0,65+,Female,3.0,,Average,4.0,1.0,1.0,Poor,,AB
+2.0,45–54,Male,1.0,,Average,10.0,1.0,1.0,Good,,AB
+4.0,25–34,Female,3.0,,Very High,5.0,1.0,1.0,Poor,University,AB
+2.0,65+,Female,3.0,,Average,6.0,2.0,2.0,Good,High School,AB
+1.0,55–64,Female,1.0,Rural,Moderate,10.0,2.0,2.0,Good,,QC
+4.0,45–54,Female,3.0,,Moderate,5.0,1.0,1.0,Poor,,AB
+3.0,25–34,Female,3.0,Urban,High,10.0,1.0,1.0,Good,High School,ON
+3.0,15–24,Male,3.0,,Moderate,6.0,1.0,1.0,Good,High School,AB
+5.0,25–34,Female,3.0,,Average,3.0,1.0,1.0,Poor,High School,AB
+1.0,25–34,Male,3.0,,Low,10.0,1.0,2.0,Good,,AB
+3.0,65+,Female,2.0,,Average,5.0,1.0,1.0,Good,,AB
+4.0,25–34,Female,2.0,,High,6.0,1.0,1.0,Poor,High School,AB
+5.0,25–34,Male,3.0,,High,5.0,1.0,1.0,Poor,,AB
+4.0,15–24,Female,3.0,,Average,6.0,1.0,1.0,Poor,Less than High School,AB
+2.0,55–64,Male,4.0,Urban,Moderate,10.0,2.0,2.0,Good,High School,ON
+4.0,25–34,Female,3.0,,High,6.0,1.0,1.0,Poor,,AB
+1.0,15–24,Female,3.0,,Low,10.0,2.0,2.0,Good,Less than High School,AB
+3.0,45–54,Female,2.0,,Average,6.0,1.0,1.0,Good,,AB
+4.0,65+,Female,4.0,,Average,5.0,1.0,1.0,Poor,,AB
+5.0,25–34,Male,3.0,,High,6.0,1.0,1.0,Poor,High School,AB
+3.0,65+,Male,1.0,,High,6.0,1.0,2.0,Good,University,AB
+4.0,35–44,Male,3.0,,Average,6.0,1.0,1.0,Poor,High School,AB
+3.0,65+,Male,4.0,,High,6.0,1.0,1.0,Good,,AB
+2.0,45–54,Male,1.0,,Average,10.0,2.0,1.0,Good,,AB
+1.0,55–64,Male,1.0,,Moderate,10.0,2.0,2.0,Good,College,AB
+1.0,15–24,Male,3.0,,Average,10.0,1.0,2.0,Good,High School,BC
+1.0,55–64,Male,1.0,,Low,10.0,2.0,2.0,Good,,AB
+3.0,55–64,Male,4.0,,Average,6.0,1.0,2.0,Good,,AB
+1.0,15–24,Male,3.0,,High,10.0,1.0,1.0,Good,High School,AB
+3.0,35–44,Female,1.0,,Average,6.0,1.0,2.0,Good,High School,AB
+2.0,35–44,Male,3.0,,Moderate,10.0,2.0,1.0,Good,,AB
+4.0,25–34,Female,3.0,,Average,6.0,1.0,1.0,Poor,,AB
+3.0,25–34,Male,3.0,,Average,5.0,1.0,1.0,Good,,AB
+1.0,55–64,Male,1.0,,Moderate,10.0,1.0,1.0,Good,,AB
+1.0,55–64,Male,1.0,,Average,10.0,2.0,2.0,Good,,BC
+1.0,65+,Male,1.0,Rural,Low,10.0,1.0,2.0,Good,,QC
+2.0,45–54,Male,2.0,,High,10.0,1.0,2.0,Good,,AB
+3.0,55–64,Male,1.0,Urban,High,10.0,1.0,1.0,Good,,ON
+5.0,15–24,Female,3.0,,High,5.0,1.0,1.0,Poor,,AB
+3.0,65+,Female,1.0,,Average,6.0,1.0,2.0,Good,,BC
+1.0,55–64,Male,3.0,,Average,10.0,2.0,2.0,Good,,AB
+3.0,65+,Male,3.0,,Average,6.0,1.0,1.0,Good,High School,AB
+1.0,65+,Male,1.0,,Average,10.0,2.0,2.0,Good,,AB
+1.0,35–44,Male,2.0,,Moderate,10.0,2.0,2.0,Good,University,AB
+1.0,15–24,Male,3.0,,Low,10.0,2.0,1.0,Good,High School,AB
+1.0,45–54,Female,2.0,Urban,Moderate,10.0,2.0,2.0,Good,Less than High School,ON
+4.0,25–34,Female,3.0,,High,0.0,1.0,1.0,Poor,University,BC
+1.0,55–64,Male,1.0,,Moderate,10.0,2.0,2.0,Good,,AB
+2.0,65+,Female,2.0,,Low,10.0,1.0,1.0,Good,University,AB
+5.0,65+,Male,4.0,,Moderate,5.0,1.0,1.0,Poor,University,AB
+1.0,65+,Male,4.0,Rural,Low,10.0,2.0,2.0,Good,High School,QC
+4.0,25–34,Female,2.0,,High,3.0,1.0,1.0,Poor,High School,AB
+2.0,65+,Female,1.0,,Average,10.0,2.0,2.0,Good,University,AB
+1.0,15–24,Male,3.0,,Very High,10.0,2.0,1.0,Good,College,BC
+4.0,15–24,Female,3.0,,High,5.0,1.0,1.0,Poor,Less than High School,BC
+4.0,25–34,Male,3.0,,Average,4.0,1.0,1.0,Poor,University,AB
+1.0,15–24,Female,3.0,,Moderate,10.0,2.0,2.0,Good,,AB
+3.0,25–34,Female,3.0,,Average,6.0,1.0,1.0,Good,High School,AB
+1.0,25–34,Female,1.0,,Average,10.0,2.0,1.0,Good,University,AB
+3.0,65+,Male,1.0,,Average,10.0,2.0,2.0,Good,High School,AB
+2.0,25–34,Female,3.0,,Average,10.0,1.0,1.0,Good,High School,AB
+3.0,55–64,Male,1.0,,Low,10.0,2.0,2.0,Good,,AB
+4.0,15–24,Female,3.0,,High,4.0,1.0,1.0,Poor,High School,AB
+3.0,55–64,Male,1.0,Urban,Average,10.0,1.0,1.0,Good,,ON
+3.0,65+,Female,1.0,,Average,6.0,1.0,1.0,Good,,AB
+3.0,45–54,Male,1.0,,Low,10.0,1.0,2.0,Good,,AB
+4.0,25–34,Male,3.0,,High,6.0,1.0,1.0,Poor,,AB
+4.0,35–44,Male,3.0,,Average,6.0,1.0,1.0,Poor,College,AB
+2.0,55–64,Male,2.0,Urban,Average,10.0,1.0,1.0,Good,College,ON
+2.0,25–34,Female,3.0,,Average,10.0,2.0,2.0,Good,University,AB
+4.0,65+,Male,4.0,,Average,6.0,1.0,2.0,Poor,University,AB
+1.0,65+,Male,1.0,,Low,10.0,2.0,1.0,Good,,AB
+4.0,25–34,Female,3.0,,Average,6.0,1.0,1.0,Poor,,AB
+3.0,15–24,Male,3.0,Urban,Average,5.0,1.0,1.0,Good,High School,ON
+3.0,25–34,Male,3.0,,High,4.0,1.0,1.0,Good,High School,AB
+4.0,55–64,Male,3.0,,Average,6.0,1.0,1.0,Poor,,AB
+5.0,55–64,Male,3.0,,Very High,3.0,1.0,1.0,Poor,Less than High School,BC
+1.0,55–64,Female,3.0,,Average,6.0,1.0,1.0,Good,Less than High School,AB
+3.0,15–24,Female,3.0,,Average,10.0,1.0,1.0,Good,Less than High School,AB
+2.0,15–24,Male,3.0,,High,10.0,1.0,1.0,Good,Less than High School,AB
+1.0,65+,Male,1.0,Rural,Low,10.0,2.0,2.0,Good,High School,QC
+2.0,45–54,Male,1.0,,Average,10.0,1.0,1.0,Good,,AB
+1.0,55–64,Male,1.0,,Very High,10.0,1.0,1.0,Good,,AB
+1.0,35–44,Male,3.0,,Low,10.0,1.0,1.0,Good,College,AB
+2.0,55–64,Male,1.0,,High,10.0,1.0,1.0,Good,,AB
+1.0,65+,Male,4.0,,Average,10.0,1.0,1.0,Good,,AB
+1.0,25–34,Male,3.0,,Average,6.0,2.0,1.0,Good,High School,AB
+5.0,15–24,Female,3.0,,High,5.0,1.0,1.0,Poor,Less than High School,AB
+4.0,35–44,Female,3.0,,Average,4.0,1.0,1.0,Poor,University,AB
+3.0,15–24,Female,3.0,,Average,6.0,1.0,1.0,Good,High School,AB
+3.0,45–54,Male,3.0,,High,6.0,1.0,1.0,Good,College,AB
+4.0,25–34,Female,3.0,,Average,6.0,1.0,1.0,Poor,University,BC
+3.0,25–34,Female,3.0,Rural,Moderate,6.0,1.0,1.0,Good,High School,QC
+4.0,45–54,Male,3.0,,High,5.0,2.0,2.0,Poor,University,AB
+3.0,65+,Male,1.0,,High,5.0,1.0,1.0,Good,University,AB
+3.0,65+,Female,2.0,Urban,Moderate,5.0,1.0,1.0,Good,High School,ON
+3.0,45–54,Female,4.0,,High,4.0,1.0,2.0,Good,,AB
+1.0,65+,Female,1.0,,Low,10.0,2.0,1.0,Good,,AB
+3.0,55–64,Female,1.0,,Average,10.0,1.0,1.0,Good,,AB
+5.0,25–34,Male,3.0,,High,4.0,1.0,1.0,Poor,,AB
+3.0,55–64,Male,1.0,,High,6.0,1.0,2.0,Good,,AB
+1.0,35–44,Female,1.0,,Moderate,10.0,1.0,1.0,Good,,AB
+3.0,15–24,Male,3.0,,Moderate,10.0,2.0,2.0,Good,High School,AB
+3.0,55–64,Male,4.0,,Average,6.0,1.0,1.0,Good,,AB
+4.0,35–44,Male,3.0,Urban,Average,6.0,2.0,2.0,Poor,High School,ON
+3.0,15–24,Male,3.0,,Moderate,5.0,2.0,2.0,Good,Less than High School,AB
+3.0,55–64,Male,3.0,,Average,6.0,1.0,1.0,Good,,AB
+4.0,15–24,Female,3.0,,High,6.0,1.0,1.0,Poor,Less than High School,AB
+4.0,55–64,Male,2.0,Rural,High,5.0,1.0,1.0,Poor,High School,QC
+2.0,35–44,Male,1.0,,Very High,10.0,1.0,1.0,Good,,AB
+2.0,55–64,Male,1.0,,Low,10.0,2.0,2.0,Good,High School,AB
+3.0,55–64,Male,3.0,,Average,6.0,1.0,2.0,Good,,AB
+3.0,55–64,Male,1.0,,Average,6.0,1.0,1.0,Good,High School,AB
+5.0,25–34,Male,3.0,,Very High,2.0,1.0,1.0,Poor,High School,AB
+4.0,25–34,Male,3.0,,Very High,5.0,1.0,1.0,Poor,High School,AB
+2.0,25–34,Female,3.0,,Average,10.0,2.0,1.0,Good,High School,AB
+1.0,65+,Female,3.0,,Average,10.0,1.0,1.0,Good,,AB
+3.0,65+,Female,1.0,,Average,5.0,1.0,1.0,Good,,AB
+4.0,25–34,Male,3.0,,High,4.0,1.0,1.0,Poor,High School,AB
+4.0,55–64,Male,2.0,,Average,6.0,1.0,1.0,Poor,,AB
+2.0,65+,Female,1.0,,Moderate,10.0,1.0,1.0,Good,,AB
+4.0,25–34,Male,3.0,,Average,6.0,1.0,1.0,Poor,High School,AB
+4.0,25–34,Female,3.0,,Average,6.0,1.0,1.0,Poor,High School,BC
+4.0,25–34,Female,3.0,,Average,6.0,1.0,1.0,Poor,High School,AB
+4.0,65+,Female,3.0,,High,5.0,1.0,2.0,Poor,,AB
+4.0,25–34,Male,3.0,,Average,5.0,1.0,1.0,Poor,,AB
+2.0,55–64,Female,1.0,,Average,6.0,2.0,2.0,Good,,AB
+1.0,55–64,Female,1.0,,Moderate,10.0,2.0,2.0,Good,,AB
+1.0,65+,Female,5.0,,Low,10.0,2.0,1.0,Good,,AB
+4.0,65+,Male,1.0,,Average,5.0,1.0,1.0,Poor,High School,AB
+2.0,65+,Female,1.0,,Average,10.0,1.0,1.0,Good,University,AB
+3.0,25–34,Male,3.0,,High,3.0,1.0,1.0,Good,High School,AB
+1.0,55–64,Male,2.0,,Moderate,10.0,2.0,2.0,Good,,AB
+1.0,35–44,Male,3.0,,Moderate,10.0,2.0,2.0,Good,,AB
+3.0,65+,Female,2.0,Urban,High,6.0,1.0,1.0,Good,University,ON
+3.0,25–34,Male,3.0,,Average,5.0,1.0,2.0,Good,High School,AB
+4.0,65+,Male,4.0,,Very High,4.0,1.0,1.0,Poor,High School,AB
+5.0,55–64,Female,3.0,,High,4.0,1.0,1.0,Poor,High School,AB
+4.0,65+,Female,1.0,,High,5.0,1.0,1.0,Poor,High School,AB
+5.0,25–34,Female,3.0,,High,4.0,1.0,1.0,Poor,,AB
+2.0,25–34,Female,3.0,,Average,10.0,2.0,2.0,Good,University,AB
+4.0,15–24,Female,3.0,,High,3.0,1.0,1.0,Poor,High School,AB
+3.0,15–24,Female,3.0,,Average,4.0,1.0,1.0,Good,High School,AB
+3.0,25–34,Male,3.0,,High,5.0,1.0,2.0,Good,University,AB
+4.0,25–34,Female,2.0,,High,6.0,1.0,1.0,Poor,College,AB
+4.0,15–24,Female,3.0,,High,5.0,1.0,1.0,Poor,High School,BC
+2.0,35–44,Female,1.0,,High,10.0,1.0,1.0,Good,,AB
+1.0,45–54,Male,1.0,,Average,10.0,1.0,2.0,Good,,AB
+1.0,45–54,Female,1.0,,Low,10.0,2.0,2.0,Good,,AB
+3.0,15–24,Male,3.0,Urban,Average,6.0,1.0,1.0,Good,Less than High School,ON
+3.0,15–24,Female,3.0,Rural,Average,6.0,1.0,2.0,Good,High School,QC
+3.0,65+,Male,4.0,,Average,5.0,1.0,2.0,Good,High School,AB
+1.0,15–24,Male,3.0,,Low,10.0,2.0,2.0,Good,Less than High School,AB
+3.0,25–34,Female,3.0,,Average,5.0,1.0,1.0,Good,University,AB
+1.0,55–64,Male,2.0,,Low,10.0,2.0,2.0,Good,High School,AB
+2.0,55–64,Female,1.0,,Average,10.0,1.0,1.0,Good,Less than High School,BC
+1.0,55–64,Male,2.0,Urban,Average,10.0,1.0,2.0,Good,College,ON
+3.0,25–34,Male,3.0,Urban,Average,10.0,1.0,2.0,Good,Less than High School,ON
+4.0,15–24,Female,3.0,,High,6.0,1.0,1.0,Poor,Less than High School,AB
+3.0,55–64,Male,1.0,,Average,5.0,2.0,2.0,Good,,AB
+3.0,45–54,Female,3.0,,Average,6.0,1.0,1.0,Good,,AB
+4.0,65+,Male,3.0,,Very High,0.0,1.0,1.0,Poor,High School,BC
+4.0,65+,Male,2.0,Rural,High,6.0,1.0,1.0,Poor,,QC
+4.0,25–34,Female,3.0,,Moderate,4.0,1.0,1.0,Poor,High School,AB
+4.0,25–34,Male,3.0,,Average,6.0,1.0,1.0,Poor,High School,AB
+4.0,15–24,Male,3.0,Urban,High,6.0,1.0,1.0,Poor,High School,ON
+2.0,25–34,Male,3.0,,Average,6.0,1.0,1.0,Good,High School,AB
+3.0,45–54,Male,3.0,,Average,5.0,1.0,1.0,Good,High School,AB
+5.0,55–64,Female,1.0,Urban,Very High,6.0,1.0,1.0,Poor,University,ON
+3.0,65+,Male,2.0,,High,4.0,1.0,1.0,Good,,BC
+3.0,55–64,Male,3.0,,Average,6.0,2.0,1.0,Good,High School,AB
+3.0,55–64,Male,1.0,Rural,Average,6.0,1.0,1.0,Good,,QC
+4.0,65+,Male,4.0,,High,5.0,1.0,1.0,Poor,,AB
+1.0,35–44,Male,1.0,,Low,10.0,2.0,2.0,Good,,AB
+1.0,55–64,Female,1.0,,Moderate,10.0,2.0,1.0,Good,,BC
+1.0,35–44,Female,2.0,,Average,10.0,2.0,1.0,Good,College,BC
+1.0,35–44,Female,3.0,,Moderate,10.0,2.0,2.0,Good,,AB
+3.0,55–64,Male,1.0,Urban,Average,6.0,1.0,2.0,Good,University,ON
+5.0,65+,Male,3.0,,Very High,4.0,1.0,1.0,Poor,High School,AB
+5.0,65+,Female,1.0,,High,2.0,1.0,1.0,Poor,,AB
+2.0,55–64,Female,1.0,,Average,10.0,1.0,2.0,Good,High School,AB
+4.0,65+,Female,1.0,Urban,High,4.0,1.0,1.0,Poor,,ON
+2.0,65+,Male,1.0,Rural,Average,10.0,2.0,2.0,Good,Less than High School,QC
+4.0,55–64,Male,3.0,Urban,Moderate,6.0,1.0,1.0,Poor,University,ON
+3.0,25–34,Female,3.0,,Very High,6.0,1.0,1.0,Good,,AB
+2.0,25–34,Male,3.0,,Average,5.0,1.0,1.0,Good,University,AB
+4.0,55–64,Female,1.0,,Average,6.0,1.0,1.0,Poor,College,AB
+5.0,45–54,Male,1.0,,Very High,5.0,1.0,1.0,Poor,,AB
+5.0,35–44,Female,1.0,Rural,High,6.0,1.0,2.0,Poor,,QC
+1.0,15–24,Male,3.0,Urban,Low,10.0,1.0,1.0,Good,Less than High School,ON
+1.0,35–44,Male,2.0,,Moderate,10.0,2.0,2.0,Good,High School,BC
+4.0,15–24,Female,3.0,Rural,Average,6.0,1.0,1.0,Poor,High School,QC
+4.0,65+,Female,3.0,,High,3.0,1.0,1.0,Poor,,AB
+4.0,55–64,Female,3.0,,High,5.0,1.0,1.0,Poor,,AB
+4.0,35–44,Female,3.0,,High,6.0,1.0,1.0,Poor,,AB
+2.0,15–24,Male,3.0,Urban,Average,6.0,1.0,1.0,Good,High School,ON
+2.0,55–64,Male,2.0,,Average,6.0,2.0,2.0,Good,High School,BC
+1.0,55–64,Female,3.0,,Moderate,10.0,1.0,1.0,Good,College,BC
+2.0,55–64,Female,3.0,,Average,10.0,2.0,2.0,Good,University,AB
+3.0,25–34,Female,1.0,,Average,10.0,1.0,1.0,Good,,AB
+5.0,55–64,Female,3.0,,High,6.0,1.0,1.0,Poor,High School,AB
+2.0,45–54,Female,1.0,Rural,Average,10.0,2.0,2.0,Good,,QC
+1.0,35–44,Male,3.0,Urban,Average,10.0,1.0,1.0,Good,College,ON
+3.0,35–44,Male,3.0,,Average,6.0,1.0,1.0,Good,High School,AB
+1.0,45–54,Male,1.0,,Average,10.0,1.0,2.0,Good,,AB
+1.0,65+,Female,1.0,,Average,10.0,2.0,1.0,Good,,AB
+3.0,15–24,Female,3.0,,Average,5.0,1.0,1.0,Good,High School,AB
+3.0,65+,Male,1.0,,Low,10.0,2.0,2.0,Good,University,AB
+2.0,25–34,Female,3.0,Urban,Average,10.0,2.0,1.0,Good,High School,ON
+1.0,65+,Female,1.0,,Moderate,10.0,1.0,1.0,Good,University,AB
+4.0,25–34,Male,3.0,,Average,6.0,1.0,1.0,Poor,,AB
+2.0,35–44,Female,1.0,Rural,Moderate,10.0,1.0,2.0,Good,High School,QC
+3.0,25–34,Female,3.0,,Average,6.0,1.0,1.0,Good,University,AB
+4.0,25–34,Female,3.0,,Very High,5.0,1.0,1.0,Poor,,AB
+4.0,45–54,Female,3.0,,High,6.0,1.0,1.0,Poor,University,AB
+1.0,65+,Male,1.0,,Low,10.0,2.0,2.0,Good,University,AB
+1.0,35–44,Female,1.0,,High,10.0,1.0,1.0,Good,,AB
+3.0,25–34,Male,3.0,,Low,6.0,1.0,1.0,Good,,AB
+4.0,25–34,Male,2.0,,Average,5.0,1.0,1.0,Poor,,AB
+1.0,55–64,Male,1.0,,Average,10.0,1.0,2.0,Good,,AB
+1.0,15–24,Female,3.0,,Average,10.0,1.0,1.0,Good,Less than High School,AB
+1.0,35–44,Female,1.0,,Low,10.0,2.0,2.0,Good,,AB
+2.0,45–54,Male,1.0,,Average,10.0,2.0,1.0,Good,Less than High School,AB
+3.0,45–54,Male,1.0,,Low,10.0,2.0,2.0,Good,,AB
+3.0,55–64,Female,3.0,,High,6.0,1.0,1.0,Good,University,AB
+2.0,45–54,Female,1.0,,Moderate,10.0,2.0,1.0,Good,,AB
+1.0,65+,Female,1.0,,High,10.0,2.0,2.0,Good,,AB
+4.0,15–24,Female,3.0,,Average,6.0,1.0,1.0,Poor,High School,AB
+1.0,55–64,Female,1.0,,Average,10.0,2.0,2.0,Good,,AB
+3.0,25–34,Male,3.0,,Average,6.0,1.0,1.0,Good,,AB
+2.0,25–34,Female,3.0,,Moderate,6.0,1.0,1.0,Good,,AB
+3.0,15–24,Female,3.0,,Low,5.0,1.0,2.0,Good,Less than High School,AB
+3.0,35–44,Male,2.0,,Average,4.0,1.0,2.0,Good,University,AB
+3.0,25–34,Female,3.0,,Moderate,10.0,1.0,1.0,Good,University,AB
+5.0,25–34,Male,3.0,Urban,High,3.0,1.0,1.0,Poor,High School,ON
+5.0,35–44,Female,3.0,,High,4.0,1.0,1.0,Poor,,AB
+4.0,45–54,Female,4.0,,High,5.0,1.0,1.0,Poor,University,AB
+1.0,55–64,Male,1.0,,Average,6.0,1.0,2.0,Good,,AB
+4.0,15–24,Male,3.0,,Average,6.0,1.0,1.0,Poor,Less than High School,AB
+2.0,35–44,Female,1.0,,Moderate,10.0,1.0,2.0,Good,,AB
+4.0,55–64,Female,3.0,,Average,5.0,1.0,1.0,Poor,Less than High School,AB
+4.0,45–54,Female,3.0,,High,5.0,1.0,1.0,Poor,Less than High School,AB
+4.0,45–54,Female,1.0,,High,6.0,1.0,1.0,Poor,,AB
+4.0,35–44,Female,2.0,,Very High,10.0,1.0,1.0,Poor,,AB
+2.0,55–64,Male,1.0,,Average,10.0,2.0,2.0,Good,University,AB
+4.0,15–24,Male,3.0,,Very High,0.0,1.0,1.0,Poor,Less than High School,AB
+4.0,45–54,Male,3.0,,High,6.0,1.0,1.0,Poor,,AB
+5.0,65+,Male,3.0,,High,2.0,1.0,1.0,Poor,High School,AB
+5.0,25–34,Female,3.0,,High,3.0,1.0,1.0,Poor,University,AB
+1.0,45–54,Female,1.0,Rural,Average,10.0,2.0,2.0,Good,University,QC
+4.0,25–34,Female,3.0,,High,5.0,1.0,1.0,Poor,High School,AB
+4.0,45–54,Female,3.0,Urban,High,4.0,1.0,1.0,Poor,,ON
+4.0,25–34,Female,3.0,,High,6.0,1.0,1.0,Poor,High School,AB
+3.0,45–54,Male,3.0,,Moderate,6.0,1.0,1.0,Good,,AB
+5.0,45–54,Female,3.0,Urban,High,0.0,1.0,1.0,Poor,High School,ON
+2.0,35–44,Male,3.0,,Low,10.0,1.0,2.0,Good,,AB
+3.0,55–64,Male,1.0,,Average,6.0,1.0,2.0,Good,,AB
+1.0,55–64,Female,4.0,,Moderate,10.0,1.0,2.0,Good,,AB
+5.0,35–44,Male,3.0,,Low,2.0,2.0,2.0,Poor,,AB
+5.0,55–64,Female,3.0,,Very High,5.0,1.0,1.0,Poor,High School,AB
+4.0,35–44,Male,3.0,,High,6.0,1.0,1.0,Poor,,AB
+3.0,35–44,Male,3.0,,High,6.0,1.0,1.0,Good,University,AB
+1.0,55–64,Male,3.0,,Moderate,10.0,1.0,2.0,Good,,AB
+5.0,45–54,Female,4.0,Urban,Very High,3.0,1.0,1.0,Poor,High School,ON
+3.0,45–54,Female,1.0,,High,5.0,1.0,1.0,Good,High School,BC
+2.0,25–34,Female,3.0,,High,6.0,1.0,1.0,Good,,AB
+4.0,55–64,Female,3.0,,Average,3.0,1.0,1.0,Poor,University,BC
+4.0,35–44,Male,3.0,,High,6.0,1.0,1.0,Poor,,AB
+4.0,65+,Female,2.0,,High,5.0,1.0,1.0,Poor,High School,AB
+1.0,65+,Female,1.0,,Moderate,10.0,2.0,2.0,Good,University,AB
+3.0,35–44,Male,3.0,,High,10.0,1.0,1.0,Good,,AB
+5.0,25–34,Female,3.0,,Very High,0.0,1.0,1.0,Poor,University,AB
+2.0,15–24,Male,3.0,,Average,5.0,1.0,1.0,Good,Less than High School,AB
+1.0,65+,Female,2.0,,Low,10.0,2.0,2.0,Good,University,AB
+3.0,45–54,Male,1.0,,Average,10.0,1.0,2.0,Good,,AB
+4.0,65+,Female,1.0,,High,5.0,1.0,1.0,Poor,,AB
+3.0,65+,Female,3.0,,Low,10.0,2.0,2.0,Good,University,AB
+1.0,55–64,Female,1.0,,Low,10.0,2.0,2.0,Good,,AB
+1.0,35–44,Male,3.0,,Average,4.0,1.0,1.0,Good,High School,BC
+4.0,55–64,Male,1.0,,High,6.0,1.0,1.0,Poor,,AB
+1.0,55–64,Female,1.0,,Moderate,10.0,1.0,1.0,Good,,AB
+1.0,15–24,Male,3.0,,Low,10.0,1.0,1.0,Good,High School,BC
+2.0,55–64,Male,2.0,,Average,10.0,1.0,2.0,Good,University,BC
+1.0,35–44,Male,4.0,,Moderate,10.0,2.0,1.0,Good,Less than High School,BC
+3.0,25–34,Male,3.0,Rural,Average,5.0,1.0,1.0,Good,College,QC
+4.0,65+,Male,1.0,Rural,High,4.0,1.0,1.0,Poor,College,QC
+1.0,25–34,Male,3.0,Urban,Average,10.0,2.0,1.0,Good,College,ON
+5.0,55–64,Female,3.0,,Average,5.0,1.0,1.0,Poor,Less than High School,AB
+1.0,65+,Female,1.0,,Moderate,10.0,2.0,2.0,Good,University,AB
+2.0,55–64,Female,4.0,,Very High,2.0,1.0,1.0,Good,Less than High School,AB
+3.0,45–54,Female,1.0,Urban,High,10.0,1.0,2.0,Good,,ON
+1.0,65+,Male,4.0,,Low,10.0,2.0,2.0,Good,University,BC
+4.0,35–44,Male,3.0,,High,6.0,1.0,1.0,Poor,University,AB
+4.0,15–24,Female,3.0,,High,5.0,1.0,1.0,Poor,Less than High School,AB
+4.0,25–34,Female,3.0,,Average,4.0,1.0,1.0,Poor,High School,AB
+1.0,65+,Female,1.0,,Moderate,10.0,2.0,2.0,Good,University,AB
+4.0,15–24,Male,3.0,,Average,6.0,1.0,1.0,Poor,High School,AB
+4.0,25–34,Female,2.0,,Average,6.0,1.0,1.0,Poor,,AB
+1.0,15–24,Male,3.0,,Moderate,10.0,2.0,2.0,Good,High School,AB
+4.0,45–54,Male,3.0,,Average,6.0,1.0,1.0,Poor,,BC
+2.0,15–24,Female,3.0,,Average,10.0,2.0,2.0,Good,High School,BC
+3.0,65+,Male,3.0,,High,5.0,1.0,1.0,Good,College,AB
+3.0,55–64,Female,1.0,,Average,10.0,2.0,2.0,Good,,AB
+4.0,35–44,Female,1.0,,Average,5.0,1.0,2.0,Poor,,AB
+4.0,45–54,Male,3.0,,High,10.0,1.0,1.0,Poor,High School,AB
+4.0,55–64,Male,1.0,,Very High,0.0,1.0,1.0,Poor,University,BC
+3.0,15–24,Female,3.0,,High,6.0,1.0,1.0,Good,Less than High School,AB
+1.0,65+,Male,4.0,Urban,Low,10.0,2.0,2.0,Good,High School,ON
+2.0,65+,Male,1.0,,High,10.0,2.0,2.0,Good,High School,AB
+5.0,25–34,Male,3.0,,Very High,4.0,1.0,1.0,Poor,,AB
+3.0,35–44,Female,3.0,,High,5.0,1.0,1.0,Good,,AB
+1.0,55–64,Male,1.0,,Average,10.0,1.0,1.0,Good,,AB
+4.0,25–34,Female,3.0,,Average,6.0,1.0,1.0,Poor,College,AB
+3.0,25–34,Female,3.0,,Moderate,5.0,1.0,1.0,Good,High School,AB
+3.0,15–24,Female,3.0,,Average,10.0,1.0,1.0,Good,University,AB
+1.0,65+,Male,1.0,,High,10.0,2.0,2.0,Good,,AB
+3.0,35–44,Male,3.0,,High,6.0,1.0,1.0,Good,High School,AB
+1.0,35–44,Female,3.0,,Low,10.0,1.0,2.0,Good,University,AB
+5.0,35–44,Female,3.0,,High,6.0,1.0,1.0,Poor,,AB
+5.0,25–34,Female,3.0,,Average,4.0,1.0,1.0,Poor,,BC
+4.0,55–64,Male,1.0,,Average,6.0,1.0,1.0,Poor,,AB
+3.0,15–24,Male,3.0,Urban,Average,4.0,1.0,1.0,Good,High School,ON
+4.0,55–64,Female,2.0,,Average,0.0,1.0,1.0,Poor,,AB
+1.0,65+,Male,1.0,,Moderate,10.0,1.0,2.0,Good,,BC
+3.0,65+,Female,1.0,,High,6.0,1.0,1.0,Good,University,AB
+1.0,65+,Female,2.0,Rural,High,10.0,2.0,2.0,Good,,QC
+1.0,25–34,Female,3.0,,Average,10.0,1.0,1.0,Good,High School,AB
+1.0,65+,Female,1.0,,Average,10.0,1.0,2.0,Good,,AB
+3.0,65+,Female,1.0,,High,5.0,1.0,1.0,Good,University,AB
+3.0,55–64,Female,3.0,Rural,High,6.0,1.0,1.0,Good,High School,QC
+4.0,55–64,Female,3.0,,High,6.0,1.0,1.0,Poor,,AB
+2.0,25–34,Female,2.0,Urban,Low,10.0,2.0,2.0,Good,University,ON
+1.0,55–64,Female,1.0,,Average,10.0,1.0,1.0,Good,University,AB
+4.0,25–34,Male,3.0,,High,4.0,1.0,1.0,Poor,,AB
+1.0,15–24,Female,3.0,,Average,10.0,1.0,2.0,Good,Less than High School,AB
+2.0,15–24,Male,3.0,,Moderate,10.0,1.0,2.0,Good,High School,AB
+3.0,55–64,Male,3.0,Urban,High,5.0,1.0,1.0,Good,University,ON
+2.0,65+,Female,1.0,Rural,Average,10.0,2.0,1.0,Good,University,QC
+2.0,45–54,Female,1.0,,Moderate,6.0,2.0,2.0,Good,,AB
+3.0,15–24,Female,3.0,,High,6.0,1.0,1.0,Good,High School,AB
+1.0,65+,Male,1.0,,Moderate,1.0,1.0,1.0,Good,,AB
+2.0,35–44,Female,3.0,,Moderate,10.0,1.0,1.0,Good,,AB
+3.0,55–64,Female,3.0,,High,5.0,1.0,2.0,Good,,AB
+3.0,55–64,Female,1.0,,Average,6.0,1.0,1.0,Good,,AB
+2.0,65+,Male,4.0,,High,6.0,1.0,2.0,Good,Less than High School,AB
+3.0,65+,Male,3.0,,High,5.0,2.0,1.0,Good,,AB
+1.0,45–54,Female,1.0,,Low,10.0,1.0,2.0,Good,University,AB
+2.0,55–64,Female,2.0,Urban,High,10.0,1.0,1.0,Good,,ON
+4.0,35–44,Female,1.0,Rural,Average,5.0,1.0,1.0,Poor,University,QC
+5.0,55–64,Female,3.0,,High,4.0,1.0,1.0,Poor,University,AB
+4.0,15–24,Female,3.0,,Average,6.0,1.0,1.0,Poor,High School,AB
+4.0,25–34,Male,3.0,Urban,Average,4.0,1.0,1.0,Poor,High School,ON
+3.0,15–24,Female,3.0,Urban,Average,6.0,1.0,1.0,Good,High School,ON
+2.0,65+,Male,3.0,,Moderate,10.0,1.0,2.0,Good,,AB
+3.0,25–34,Male,3.0,,Average,0.0,1.0,1.0,Good,Less than High School,AB
+4.0,55–64,Female,3.0,,Average,6.0,1.0,1.0,Poor,High School,AB
+1.0,65+,Female,1.0,,Average,3.0,1.0,1.0,Good,University,BC
+1.0,55–64,Male,1.0,,Low,10.0,2.0,1.0,Good,,AB
+1.0,55–64,Female,1.0,,Moderate,10.0,2.0,2.0,Good,,AB
+1.0,55–64,Female,3.0,,Average,5.0,1.0,1.0,Good,Less than High School,AB
+4.0,65+,Female,1.0,,High,6.0,1.0,1.0,Poor,University,AB
+2.0,25–34,Male,3.0,Rural,High,10.0,1.0,1.0,Good,High School,QC
+4.0,25–34,Female,3.0,,High,5.0,2.0,1.0,Poor,High School,AB
+2.0,35–44,Male,1.0,,Low,10.0,2.0,2.0,Good,High School,AB
+5.0,25–34,Male,3.0,,Very High,2.0,1.0,1.0,Poor,,AB
+3.0,25–34,Female,3.0,,Average,6.0,2.0,2.0,Good,High School,AB
+3.0,35–44,Male,3.0,,Moderate,4.0,2.0,2.0,Good,College,AB
+3.0,55–64,Male,3.0,,Average,6.0,1.0,1.0,Good,High School,AB
+4.0,65+,Female,4.0,,Very High,3.0,1.0,1.0,Poor,,AB
+4.0,15–24,Female,3.0,,High,5.0,1.0,1.0,Poor,Less than High School,AB
+3.0,45–54,Female,1.0,Rural,Low,10.0,1.0,1.0,Good,,QC
+1.0,25–34,Female,3.0,,Low,10.0,1.0,1.0,Good,,AB
+4.0,45–54,Male,2.0,,Average,5.0,1.0,1.0,Poor,,AB
+3.0,55–64,Male,1.0,,Moderate,5.0,2.0,2.0,Good,High School,AB
+3.0,45–54,Female,1.0,,High,5.0,1.0,1.0,Good,,AB
+1.0,55–64,Male,1.0,,Moderate,10.0,1.0,1.0,Good,,AB
+4.0,25–34,Male,3.0,,Average,5.0,1.0,1.0,Poor,,AB
+1.0,65+,Female,1.0,,Moderate,10.0,2.0,2.0,Good,University,AB
+1.0,15–24,Female,3.0,Rural,Average,10.0,2.0,1.0,Good,Less than High School,QC
+2.0,65+,Male,1.0,,Low,10.0,1.0,2.0,Good,College,AB
+1.0,35–44,Male,2.0,Urban,Average,10.0,1.0,2.0,Good,,ON
+1.0,25–34,Female,1.0,,Low,5.0,2.0,2.0,Good,University,AB
+2.0,65+,Male,1.0,Rural,High,10.0,1.0,1.0,Good,High School,QC
+1.0,15–24,Male,3.0,,Low,10.0,2.0,2.0,Good,High School,AB
+5.0,45–54,Female,3.0,,Average,5.0,1.0,1.0,Poor,,AB
+4.0,35–44,Male,3.0,,Average,5.0,1.0,1.0,Poor,University,AB
+5.0,15–24,Male,3.0,,Moderate,3.0,1.0,1.0,Poor,High School,AB
+4.0,15–24,Female,3.0,,Average,6.0,1.0,1.0,Poor,Less than High School,AB
+1.0,55–64,Male,2.0,,Moderate,10.0,2.0,2.0,Good,,AB
+2.0,55–64,Female,4.0,,Very High,4.0,1.0,1.0,Good,University,AB
+2.0,15–24,Male,3.0,Rural,Moderate,10.0,2.0,2.0,Good,High School,QC
+3.0,15–24,Female,3.0,,Average,6.0,1.0,1.0,Good,High School,AB
+2.0,15–24,Female,3.0,Urban,Moderate,10.0,1.0,1.0,Good,Less than High School,ON
+1.0,45–54,Male,3.0,,Average,10.0,2.0,2.0,Good,,AB
+4.0,25–34,Female,3.0,,Average,6.0,1.0,1.0,Poor,High School,AB
+1.0,55–64,Female,1.0,,High,10.0,1.0,2.0,Good,College,AB
+4.0,15–24,Female,3.0,Urban,Very High,4.0,1.0,1.0,Poor,High School,ON
+5.0,55–64,Female,3.0,Urban,Very High,1.0,1.0,1.0,Poor,High School,ON
+1.0,55–64,Male,1.0,,Low,10.0,2.0,2.0,Good,Less than High School,BC
+1.0,55–64,Male,1.0,,High,10.0,1.0,1.0,Good,,BC
+5.0,35–44,Female,3.0,,Very High,5.0,1.0,1.0,Poor,University,AB
+1.0,15–24,Male,3.0,,Moderate,10.0,2.0,2.0,Good,Less than High School,AB
+4.0,15–24,Female,3.0,,Average,5.0,1.0,1.0,Poor,Less than High School,AB
+4.0,45–54,Male,3.0,,Average,4.0,1.0,1.0,Poor,High School,AB
+3.0,35–44,Male,3.0,,Average,5.0,1.0,1.0,Good,University,AB
+2.0,55–64,Male,1.0,,Low,10.0,1.0,1.0,Good,High School,AB
+3.0,25–34,Female,3.0,,High,6.0,1.0,1.0,Good,High School,AB
+3.0,35–44,Male,4.0,,Average,6.0,1.0,1.0,Good,University,AB
+3.0,45–54,Male,1.0,,Moderate,10.0,2.0,2.0,Good,University,AB
+2.0,65+,Female,1.0,,Moderate,10.0,2.0,2.0,Good,,AB
+3.0,55–64,Male,3.0,,High,6.0,1.0,1.0,Good,,AB
+1.0,25–34,Male,3.0,,Moderate,10.0,1.0,2.0,Good,High School,AB
+2.0,35–44,Male,1.0,,Average,10.0,1.0,1.0,Good,College,AB
+2.0,45–54,Female,1.0,,Average,10.0,1.0,2.0,Good,,AB
+4.0,25–34,Male,3.0,,Low,5.0,1.0,2.0,Poor,University,AB
+4.0,55–64,Female,1.0,,Average,6.0,1.0,1.0,Poor,,AB
+3.0,15–24,Male,3.0,,Moderate,6.0,2.0,1.0,Good,High School,AB
+2.0,55–64,Male,1.0,,Moderate,10.0,2.0,2.0,Good,,AB
+2.0,55–64,Female,2.0,,Average,10.0,1.0,2.0,Good,,AB
+5.0,45–54,Male,3.0,,High,4.0,1.0,1.0,Poor,High School,AB
+1.0,25–34,Female,3.0,,Average,10.0,1.0,2.0,Good,Less than High School,BC
+4.0,25–34,Female,3.0,Urban,Average,10.0,1.0,1.0,Poor,University,ON
+3.0,35–44,Female,1.0,Rural,Average,6.0,1.0,1.0,Good,High School,QC
+1.0,55–64,Male,1.0,,Moderate,10.0,2.0,2.0,Good,University,AB
+3.0,25–34,Male,1.0,,Average,6.0,1.0,1.0,Good,University,AB
+4.0,55–64,Male,1.0,,Average,5.0,1.0,1.0,Poor,,AB
+2.0,15–24,Male,3.0,,Moderate,10.0,1.0,1.0,Good,University,AB
+2.0,25–34,Male,3.0,,Average,6.0,2.0,2.0,Good,High School,AB
+2.0,55–64,Male,2.0,,Low,10.0,2.0,2.0,Good,University,AB
+3.0,15–24,Female,3.0,,High,6.0,1.0,1.0,Good,Less than High School,AB
+3.0,55–64,Male,1.0,,High,10.0,2.0,2.0,Good,,AB
+3.0,65+,Male,3.0,,Average,5.0,1.0,1.0,Good,,AB
+2.0,65+,Female,3.0,,Moderate,10.0,2.0,2.0,Good,High School,AB
+4.0,65+,Female,1.0,Urban,Average,6.0,2.0,1.0,Poor,,ON
+5.0,55–64,Female,3.0,Urban,High,5.0,1.0,1.0,Poor,,ON
+1.0,45–54,Male,1.0,,Average,10.0,2.0,1.0,Good,,AB
+1.0,15–24,Female,3.0,Urban,Average,10.0,2.0,2.0,Good,High School,ON
+1.0,55–64,Male,1.0,,Low,10.0,2.0,2.0,Good,,BC
+3.0,65+,Female,1.0,,Moderate,10.0,1.0,1.0,Good,University,AB
+4.0,25–34,Female,3.0,,High,6.0,2.0,1.0,Poor,High School,AB
+1.0,15–24,Male,3.0,,Low,10.0,2.0,2.0,Good,High School,AB
+3.0,65+,Female,1.0,,High,6.0,1.0,2.0,Good,College,AB
+3.0,55–64,Male,3.0,,High,5.0,1.0,1.0,Good,College,AB
+2.0,15–24,Female,3.0,,Average,5.0,2.0,2.0,Good,Less than High School,AB
+5.0,55–64,Male,3.0,,Average,5.0,1.0,1.0,Poor,,AB
+4.0,15–24,Female,3.0,,High,4.0,1.0,1.0,Poor,High School,AB
+3.0,65+,Female,1.0,,Average,10.0,1.0,1.0,Good,,AB
+1.0,35–44,Male,3.0,,Average,10.0,2.0,2.0,Good,,AB
+3.0,65+,Male,1.0,,High,6.0,2.0,1.0,Good,High School,AB
+4.0,65+,Female,3.0,Urban,Average,5.0,2.0,2.0,Poor,University,ON
+3.0,15–24,Female,3.0,Urban,Average,5.0,1.0,1.0,Good,Less than High School,ON
+5.0,55–64,Female,3.0,,Very High,2.0,1.0,1.0,Poor,High School,AB
+1.0,55–64,Male,1.0,,High,4.0,1.0,1.0,Good,,AB
+3.0,65+,Male,4.0,,Average,10.0,1.0,1.0,Good,University,AB
+2.0,45–54,Female,3.0,,Moderate,6.0,1.0,1.0,Good,,AB
+4.0,65+,Female,1.0,,Average,6.0,2.0,2.0,Poor,,AB
+3.0,45–54,Female,3.0,,Average,6.0,2.0,1.0,Good,University,AB
+1.0,65+,Male,3.0,,Low,10.0,2.0,2.0,Good,,BC
+4.0,15–24,Female,3.0,Rural,High,4.0,1.0,1.0,Poor,High School,QC
+1.0,25–34,Male,3.0,,Low,10.0,1.0,2.0,Good,,AB
+4.0,25–34,Female,3.0,,High,4.0,1.0,1.0,Poor,University,AB
+3.0,15–24,Female,3.0,,High,6.0,1.0,1.0,Good,Less than High School,AB
+4.0,25–34,Male,3.0,,Average,5.0,1.0,1.0,Poor,,AB
+1.0,55–64,Female,1.0,Urban,Average,10.0,2.0,2.0,Good,,ON
+2.0,55–64,Male,1.0,,Average,6.0,1.0,1.0,Good,,AB
+3.0,55–64,Female,1.0,Urban,Moderate,10.0,2.0,2.0,Good,Less than High School,ON
+2.0,65+,Male,1.0,,Low,10.0,2.0,2.0,Good,University,AB
+4.0,25–34,Female,3.0,,Average,6.0,1.0,1.0,Poor,University,AB
+4.0,15–24,Female,3.0,Rural,Average,3.0,1.0,1.0,Poor,Less than High School,QC
+4.0,35–44,Female,3.0,,Average,6.0,1.0,1.0,Poor,,AB
+2.0,55–64,Male,1.0,,Moderate,10.0,1.0,1.0,Good,University,AB
+4.0,15–24,Female,3.0,,High,5.0,2.0,1.0,Poor,Less than High School,AB
+1.0,15–24,Female,3.0,,Moderate,10.0,2.0,2.0,Good,Less than High School,AB
+3.0,15–24,Female,3.0,,High,6.0,1.0,1.0,Good,Less than High School,AB
+1.0,55–64,Female,1.0,,Low,10.0,2.0,2.0,Good,University,AB
+2.0,65+,Male,3.0,,Average,6.0,2.0,2.0,Good,High School,AB
+4.0,15–24,Female,3.0,,Average,4.0,1.0,1.0,Poor,High School,AB
+1.0,65+,Male,1.0,Rural,Low,10.0,2.0,2.0,Good,University,QC
+2.0,55–64,Female,1.0,,Moderate,10.0,2.0,2.0,Good,University,AB
+5.0,35–44,Male,2.0,,High,6.0,1.0,2.0,Poor,University,AB
+1.0,65+,Male,2.0,,Low,10.0,2.0,1.0,Good,College,AB
+1.0,65+,Male,1.0,,Moderate,10.0,2.0,2.0,Good,High School,AB
+1.0,55–64,Female,3.0,,Average,10.0,2.0,2.0,Good,,AB
+3.0,25–34,Male,3.0,,Average,5.0,2.0,1.0,Good,University,AB
+4.0,65+,Female,1.0,Rural,Average,5.0,1.0,1.0,Poor,University,QC
+4.0,25–34,Female,3.0,,Average,4.0,1.0,1.0,Poor,,AB
+1.0,65+,Female,4.0,,Moderate,10.0,2.0,2.0,Good,University,AB
+4.0,55–64,Female,1.0,,Average,5.0,1.0,1.0,Poor,,AB
+1.0,65+,Female,1.0,,High,10.0,1.0,2.0,Good,,AB
+3.0,55–64,Female,4.0,,High,4.0,1.0,1.0,Good,High School,AB
+3.0,45–54,Male,1.0,,High,6.0,1.0,1.0,Good,,AB
+3.0,15–24,Female,3.0,,Average,10.0,2.0,1.0,Good,Less than High School,AB
+1.0,25–34,Male,3.0,,Moderate,10.0,1.0,2.0,Good,High School,BC
+1.0,45–54,Female,3.0,,Low,10.0,2.0,2.0,Good,,BC
+4.0,25–34,Male,3.0,,High,6.0,1.0,1.0,Poor,High School,AB
+4.0,65+,Female,1.0,,Moderate,6.0,1.0,1.0,Poor,,AB
+1.0,65+,Male,1.0,,Low,10.0,1.0,1.0,Good,University,AB
+4.0,35–44,Male,3.0,Urban,High,5.0,1.0,1.0,Poor,,ON
+5.0,25–34,Male,3.0,,High,6.0,1.0,2.0,Poor,High School,AB
+4.0,15–24,Female,3.0,,High,6.0,1.0,1.0,Poor,High School,AB
+4.0,65+,Female,4.0,,High,5.0,2.0,2.0,Poor,College,AB
+1.0,55–64,Male,1.0,,Low,10.0,2.0,2.0,Good,,AB
+1.0,55–64,Female,1.0,Urban,Average,10.0,2.0,2.0,Good,University,ON
+4.0,25–34,Female,3.0,,Average,5.0,1.0,1.0,Poor,High School,AB
+5.0,65+,Female,1.0,,Moderate,3.0,1.0,1.0,Poor,High School,AB
+3.0,55–64,Male,1.0,,Low,6.0,1.0,1.0,Good,University,AB
+3.0,55–64,Male,3.0,Urban,Average,6.0,1.0,1.0,Good,High School,ON
+2.0,15–24,Female,3.0,,Very High,2.0,1.0,1.0,Good,High School,AB
+3.0,55–64,Female,2.0,,High,10.0,1.0,2.0,Good,University,AB
+4.0,45–54,Female,3.0,,High,5.0,1.0,1.0,Poor,,AB
+3.0,55–64,Female,1.0,Urban,High,5.0,1.0,2.0,Good,University,ON
+1.0,65+,Female,2.0,,Moderate,10.0,2.0,2.0,Good,University,AB
+2.0,65+,Male,3.0,Rural,Average,10.0,2.0,2.0,Good,University,QC
+2.0,45–54,Female,1.0,,Low,10.0,2.0,2.0,Good,,AB
+4.0,35–44,Female,3.0,,High,6.0,1.0,1.0,Poor,,AB
+3.0,55–64,Male,1.0,Urban,High,6.0,1.0,1.0,Good,,ON
+1.0,55–64,Female,4.0,,Moderate,10.0,1.0,2.0,Good,,AB
+2.0,65+,Female,1.0,Urban,Low,10.0,2.0,2.0,Good,,ON
+2.0,25–34,Female,3.0,,Moderate,10.0,1.0,1.0,Good,,AB
+3.0,25–34,Male,3.0,,Average,6.0,2.0,2.0,Good,,AB
+3.0,25–34,Female,3.0,,High,6.0,1.0,1.0,Good,,AB
+2.0,35–44,Male,2.0,,Moderate,10.0,2.0,2.0,Good,,AB
+3.0,55–64,Female,1.0,,High,6.0,1.0,1.0,Good,University,AB
+4.0,35–44,Male,2.0,,Very High,6.0,1.0,1.0,Poor,,AB
+3.0,15–24,Female,3.0,,Average,3.0,1.0,1.0,Good,High School,AB
+1.0,25–34,Male,2.0,,Average,6.0,1.0,2.0,Good,University,AB
+4.0,25–34,Male,3.0,,High,4.0,1.0,1.0,Poor,High School,AB
+3.0,25–34,Male,3.0,,High,6.0,1.0,1.0,Good,High School,AB
+5.0,15–24,Female,3.0,Rural,Very High,4.0,1.0,1.0,Poor,High School,QC
+2.0,55–64,Female,2.0,,Average,10.0,2.0,2.0,Good,,AB
+2.0,65+,Female,5.0,,Moderate,10.0,2.0,2.0,Good,,AB
+4.0,45–54,Female,2.0,Rural,High,6.0,1.0,1.0,Poor,,QC
+5.0,65+,Female,1.0,Urban,High,6.0,1.0,1.0,Poor,,ON
+4.0,55–64,Male,2.0,,Average,2.0,1.0,1.0,Poor,High School,AB
+2.0,25–34,Female,3.0,,High,5.0,2.0,2.0,Good,High School,AB
+4.0,35–44,Male,3.0,,Average,4.0,1.0,1.0,Poor,,AB
+3.0,55–64,Male,3.0,,Average,4.0,1.0,1.0,Good,College,AB
+1.0,15–24,Male,3.0,Urban,Moderate,10.0,1.0,1.0,Good,High School,ON
+1.0,65+,Male,1.0,,Average,10.0,2.0,2.0,Good,,AB
+4.0,55–64,Female,1.0,Urban,Average,6.0,1.0,1.0,Poor,,ON
+1.0,45–54,Female,3.0,,Moderate,10.0,2.0,2.0,Good,,AB
+1.0,65+,Male,1.0,Urban,Moderate,10.0,1.0,2.0,Good,University,ON
+1.0,55–64,Female,1.0,,Average,10.0,2.0,2.0,Good,High School,AB
+3.0,25–34,Male,3.0,,Average,4.0,1.0,1.0,Good,,AB
+1.0,55–64,Male,1.0,,Average,10.0,1.0,1.0,Good,,AB
+1.0,35–44,Female,1.0,,Average,10.0,1.0,2.0,Good,University,AB
+1.0,55–64,Female,1.0,,Moderate,10.0,2.0,2.0,Good,University,AB
+2.0,45–54,Female,3.0,,Average,6.0,1.0,1.0,Good,,AB
+1.0,55–64,Male,1.0,,Low,10.0,2.0,2.0,Good,High School,AB
+2.0,55–64,Male,1.0,Urban,Moderate,10.0,1.0,1.0,Good,University,ON
+1.0,45–54,Male,1.0,,Average,10.0,2.0,2.0,Good,High School,AB
+4.0,25–34,Male,3.0,,Moderate,6.0,1.0,1.0,Poor,Less than High School,AB
+3.0,55–64,Male,1.0,Urban,Average,10.0,2.0,1.0,Good,College,ON
+1.0,45–54,Male,1.0,,Average,10.0,2.0,2.0,Good,,AB
+5.0,25–34,Male,3.0,Urban,Average,4.0,1.0,2.0,Poor,University,ON
+4.0,25–34,Female,3.0,,Average,5.0,1.0,1.0,Poor,,AB
+1.0,65+,Male,1.0,,Low,10.0,2.0,2.0,Good,,AB
+4.0,45–54,Female,3.0,,Moderate,5.0,1.0,1.0,Poor,High School,BC
+2.0,55–64,Female,4.0,,Average,5.0,1.0,1.0,Good,University,AB
+4.0,65+,Female,1.0,,Very High,5.0,2.0,1.0,Poor,High School,AB
+3.0,65+,Male,3.0,,Average,5.0,1.0,1.0,Good,High School,AB
+3.0,65+,Female,1.0,,High,5.0,1.0,1.0,Good,University,AB
+4.0,35–44,Female,3.0,,Average,4.0,1.0,2.0,Poor,University,AB
+1.0,45–54,Male,1.0,,Moderate,10.0,2.0,2.0,Good,,AB
+2.0,45–54,Female,1.0,,Average,10.0,1.0,2.0,Good,,AB
+2.0,55–64,Female,4.0,,Average,5.0,1.0,2.0,Good,University,AB
+4.0,25–34,Female,3.0,,Very High,6.0,1.0,1.0,Poor,,BC
+1.0,25–34,Female,3.0,,Moderate,10.0,1.0,2.0,Good,University,AB
+4.0,55–64,Female,3.0,,High,5.0,1.0,1.0,Poor,University,AB
+1.0,55–64,Male,1.0,Urban,Low,10.0,1.0,2.0,Good,College,ON
+4.0,55–64,Female,1.0,,Very High,5.0,1.0,1.0,Poor,University,AB
+3.0,25–34,Female,3.0,,High,6.0,1.0,1.0,Good,University,AB
+3.0,65+,Male,4.0,,Low,10.0,2.0,2.0,Good,,AB
+1.0,55–64,Male,1.0,,Moderate,0.0,1.0,2.0,Good,University,AB
+4.0,35–44,Male,3.0,,High,6.0,1.0,1.0,Poor,,AB
+1.0,45–54,Female,3.0,,Low,10.0,2.0,2.0,Good,,AB
+4.0,55–64,Female,4.0,,Average,6.0,1.0,2.0,Poor,,AB
+1.0,65+,Female,2.0,,Average,10.0,1.0,1.0,Good,,AB
+4.0,25–34,Female,3.0,Urban,High,5.0,1.0,1.0,Poor,University,ON
+1.0,25–34,Male,3.0,,Average,10.0,1.0,1.0,Good,University,AB
+4.0,65+,Female,4.0,Rural,Very High,6.0,1.0,1.0,Poor,,QC
+1.0,25–34,Female,2.0,,Moderate,10.0,2.0,2.0,Good,University,AB
+4.0,45–54,Male,1.0,,High,2.0,1.0,1.0,Poor,,AB
+1.0,55–64,Male,1.0,Urban,Very High,10.0,1.0,1.0,Good,,ON
+5.0,25–34,Female,2.0,,High,2.0,1.0,1.0,Poor,High School,AB
+3.0,25–34,Male,3.0,,High,6.0,1.0,1.0,Good,High School,AB
+1.0,65+,Male,4.0,,Average,10.0,1.0,2.0,Good,Less than High School,AB
+4.0,25–34,Male,3.0,,Average,6.0,1.0,1.0,Poor,,AB
+4.0,55–64,Female,1.0,Rural,Average,6.0,1.0,1.0,Poor,College,QC
+3.0,15–24,Male,3.0,,High,5.0,1.0,1.0,Good,Less than High School,AB
+3.0,65+,Male,1.0,,High,10.0,2.0,1.0,Good,,AB
+3.0,55–64,Male,3.0,,Average,6.0,1.0,1.0,Good,,AB
+1.0,15–24,Female,3.0,Urban,Moderate,10.0,1.0,1.0,Good,High School,ON
+2.0,35–44,Male,3.0,,Average,10.0,1.0,2.0,Good,University,AB
+2.0,55–64,Male,3.0,,Average,3.0,1.0,1.0,Good,,AB
+1.0,65+,Female,1.0,,Moderate,10.0,2.0,2.0,Good,,AB
+2.0,15–24,Male,3.0,,Moderate,6.0,1.0,1.0,Good,High School,AB
+3.0,25–34,Female,3.0,,Average,5.0,1.0,1.0,Good,University,AB
+3.0,55–64,Female,4.0,,Moderate,6.0,1.0,1.0,Good,,AB
+3.0,55–64,Male,1.0,,Average,5.0,1.0,1.0,Good,,AB
+2.0,45–54,Female,1.0,,Average,10.0,1.0,1.0,Good,University,AB
+4.0,65+,Female,1.0,,Very High,3.0,1.0,1.0,Poor,University,AB
+3.0,65+,Male,3.0,,Moderate,5.0,1.0,1.0,Good,University,AB
+5.0,35–44,Male,3.0,,High,4.0,1.0,1.0,Poor,,AB
+4.0,55–64,Male,1.0,,High,10.0,2.0,1.0,Poor,,AB
+3.0,15–24,Male,3.0,,Average,10.0,2.0,2.0,Good,University,AB
+1.0,55–64,Male,1.0,,Moderate,10.0,2.0,2.0,Good,College,BC
+3.0,15–24,Male,3.0,Urban,Moderate,6.0,1.0,1.0,Good,High School,ON
+3.0,45–54,Female,1.0,,Average,10.0,1.0,1.0,Good,,AB
+4.0,15–24,Male,3.0,,Very High,3.0,1.0,1.0,Poor,High School,AB
+3.0,25–34,Male,3.0,Urban,Average,6.0,1.0,1.0,Good,High School,ON
+3.0,35–44,Male,3.0,,High,5.0,1.0,1.0,Good,University,AB
+1.0,65+,Female,1.0,,Low,10.0,2.0,2.0,Good,University,AB
+2.0,55–64,Female,1.0,,Moderate,10.0,2.0,2.0,Good,,AB
+3.0,25–34,Female,3.0,,High,5.0,1.0,1.0,Good,High School,AB
+5.0,35–44,Female,3.0,,High,6.0,1.0,1.0,Poor,University,BC
+2.0,25–34,Male,3.0,,Average,6.0,1.0,1.0,Good,University,AB
+1.0,55–64,Male,1.0,,Average,10.0,2.0,2.0,Good,High School,AB
+5.0,15–24,Male,3.0,Rural,High,6.0,1.0,1.0,Poor,Less than High School,QC
+1.0,55–64,Male,1.0,,High,10.0,2.0,2.0,Good,,AB
+3.0,55–64,Female,1.0,,Average,10.0,1.0,2.0,Good,,AB
+4.0,15–24,Male,3.0,,Moderate,6.0,1.0,1.0,Poor,,AB
+1.0,65+,Male,3.0,,Low,10.0,2.0,2.0,Good,College,AB
+3.0,35–44,Female,3.0,,High,5.0,1.0,1.0,Good,,AB
+1.0,35–44,Male,3.0,,High,10.0,2.0,2.0,Good,College,AB
+3.0,55–64,Male,2.0,,Average,10.0,1.0,1.0,Good,College,AB
+3.0,25–34,Male,3.0,Rural,Moderate,5.0,1.0,2.0,Good,High School,QC
+2.0,65+,Female,1.0,,Average,10.0,1.0,1.0,Good,,AB
+4.0,55–64,Male,3.0,Urban,High,5.0,1.0,1.0,Poor,Less than High School,ON
+2.0,25–34,Male,3.0,,High,6.0,1.0,1.0,Good,High School,AB
+4.0,35–44,Female,3.0,,Low,5.0,1.0,1.0,Poor,,AB
+2.0,65+,Female,1.0,,Average,6.0,1.0,2.0,Good,,AB
+2.0,35–44,Female,2.0,,High,4.0,1.0,1.0,Good,High School,AB
+3.0,15–24,Male,3.0,,High,6.0,1.0,1.0,Good,High School,AB
+4.0,55–64,Male,4.0,Rural,Average,5.0,1.0,1.0,Poor,High School,QC
+2.0,65+,Male,1.0,,Moderate,10.0,1.0,1.0,Good,,BC
+4.0,25–34,Male,3.0,,High,6.0,1.0,1.0,Poor,University,BC
+3.0,65+,Female,1.0,,Average,5.0,1.0,1.0,Good,,AB
+1.0,35–44,Male,3.0,,Average,10.0,2.0,2.0,Good,University,AB
+4.0,15–24,Male,3.0,,High,6.0,1.0,1.0,Poor,High School,AB
+2.0,15–24,Male,3.0,,Average,10.0,1.0,1.0,Good,High School,AB
+1.0,45–54,Female,1.0,,Average,10.0,2.0,2.0,Good,High School,AB
+1.0,15–24,Male,3.0,,Low,10.0,2.0,2.0,Good,Less than High School,AB
+1.0,45–54,Female,4.0,,Moderate,10.0,1.0,2.0,Good,College,AB
+1.0,65+,Female,1.0,Urban,Average,10.0,2.0,1.0,Good,University,ON
+2.0,65+,Male,1.0,,Average,5.0,1.0,2.0,Good,High School,AB
+1.0,25–34,Female,2.0,Rural,Moderate,10.0,1.0,1.0,Good,High School,QC
+2.0,15–24,Male,3.0,,Low,10.0,2.0,2.0,Good,Less than High School,AB
+2.0,25–34,Female,1.0,Rural,Moderate,10.0,2.0,2.0,Good,High School,QC
+3.0,55–64,Female,1.0,,Average,6.0,1.0,1.0,Good,,AB
+3.0,35–44,Female,1.0,Rural,Average,5.0,1.0,1.0,Good,University,QC
+2.0,25–34,Male,3.0,,High,10.0,1.0,1.0,Good,High School,BC
+1.0,65+,Female,5.0,Rural,Low,10.0,2.0,1.0,Good,High School,QC
+3.0,35–44,Female,3.0,,High,5.0,1.0,1.0,Good,High School,AB
+2.0,65+,Male,1.0,,Average,10.0,1.0,1.0,Good,,AB
+1.0,15–24,Female,3.0,,Average,10.0,2.0,2.0,Good,High School,AB
+2.0,55–64,Female,4.0,,Low,10.0,1.0,2.0,Good,University,BC
+4.0,65+,Male,2.0,Urban,Average,6.0,1.0,1.0,Poor,University,ON
+1.0,55–64,Male,1.0,Urban,High,10.0,1.0,1.0,Good,High School,ON
+3.0,65+,Female,1.0,,Moderate,5.0,1.0,1.0,Good,University,AB
+4.0,25–34,Male,3.0,,Moderate,6.0,1.0,2.0,Poor,High School,AB
+4.0,35–44,Male,3.0,,Average,4.0,1.0,1.0,Poor,High School,AB
+3.0,25–34,Female,3.0,,Average,6.0,1.0,1.0,Good,High School,BC
+2.0,65+,Male,1.0,,Average,10.0,2.0,2.0,Good,University,AB
+4.0,65+,Male,1.0,,Very High,3.0,1.0,1.0,Poor,High School,AB
+1.0,55–64,Female,1.0,,High,10.0,2.0,2.0,Good,High School,AB
+3.0,65+,Male,2.0,,Average,5.0,1.0,1.0,Good,College,AB
+3.0,25–34,Male,3.0,,Low,5.0,1.0,2.0,Good,High School,AB
+4.0,65+,Male,1.0,,Average,5.0,1.0,1.0,Poor,University,BC
+5.0,25–34,Male,3.0,,High,6.0,1.0,1.0,Poor,High School,AB
+4.0,55–64,Female,1.0,,High,10.0,1.0,1.0,Poor,High School,AB
+4.0,15–24,Female,3.0,,High,6.0,1.0,1.0,Poor,Less than High School,AB
+1.0,25–34,Female,3.0,Rural,Average,10.0,1.0,1.0,Good,,QC
+1.0,55–64,Female,1.0,,Low,10.0,1.0,2.0,Good,,AB
+3.0,65+,Female,1.0,,Moderate,10.0,2.0,2.0,Good,,AB
+1.0,15–24,Male,3.0,Urban,Low,10.0,1.0,2.0,Good,Less than High School,ON
+4.0,65+,Female,3.0,,Average,6.0,1.0,2.0,Poor,,AB
+1.0,55–64,Male,1.0,,Average,10.0,1.0,2.0,Good,,BC
+1.0,25–34,Female,3.0,,Low,10.0,2.0,2.0,Good,University,AB
+1.0,15–24,Male,3.0,,High,10.0,1.0,1.0,Good,Less than High School,AB
+4.0,45–54,Female,3.0,,Average,5.0,2.0,2.0,Poor,University,AB
+3.0,35–44,Female,3.0,,Moderate,10.0,2.0,2.0,Good,,AB
+5.0,45–54,Female,3.0,,Very High,0.0,1.0,1.0,Poor,High School,AB
+3.0,65+,Female,1.0,,High,5.0,1.0,2.0,Good,,AB
+3.0,65+,Female,4.0,Urban,Average,5.0,1.0,1.0,Good,,ON
+4.0,15–24,Male,3.0,,Moderate,4.0,1.0,1.0,Poor,High School,AB
+4.0,55–64,Male,3.0,,Moderate,5.0,2.0,1.0,Poor,University,AB
+3.0,65+,Female,4.0,,High,5.0,1.0,1.0,Good,High School,AB
+3.0,45–54,Female,1.0,,Average,6.0,1.0,1.0,Good,,AB
+1.0,15–24,Female,3.0,Rural,Average,10.0,2.0,1.0,Good,High School,QC
+3.0,65+,Male,4.0,,Average,6.0,1.0,1.0,Good,High School,AB
+3.0,65+,Female,1.0,,High,5.0,1.0,2.0,Good,,AB
+1.0,65+,Male,1.0,,Low,10.0,2.0,1.0,Good,High School,AB
+4.0,25–34,Female,3.0,Urban,Average,6.0,1.0,1.0,Poor,,ON
+1.0,25–34,Male,3.0,,Low,10.0,1.0,2.0,Good,,AB
+1.0,55–64,Female,1.0,,Average,10.0,2.0,1.0,Good,,AB
+1.0,15–24,Female,3.0,,Low,10.0,2.0,2.0,Good,High School,AB
+4.0,25–34,Male,3.0,,High,6.0,1.0,2.0,Poor,University,AB
+4.0,25–34,Female,3.0,,High,6.0,1.0,1.0,Poor,,AB
+1.0,35–44,Male,1.0,,Average,10.0,2.0,1.0,Good,Less than High School,AB
+4.0,15–24,Female,3.0,,Average,6.0,1.0,1.0,Poor,High School,AB
+3.0,15–24,Female,3.0,,High,10.0,2.0,1.0,Good,Less than High School,AB
+4.0,35–44,Male,2.0,,High,6.0,1.0,1.0,Poor,High School,AB
+1.0,65+,Female,1.0,,Average,10.0,2.0,2.0,Good,University,BC
+1.0,35–44,Male,3.0,,Low,10.0,2.0,2.0,Good,University,AB
+1.0,25–34,Female,3.0,,Average,10.0,2.0,2.0,Good,University,AB
+3.0,45–54,Female,2.0,,Moderate,6.0,2.0,1.0,Good,,AB
+3.0,15–24,Male,3.0,,Moderate,6.0,1.0,2.0,Good,High School,AB
+4.0,55–64,Female,4.0,,High,6.0,1.0,1.0,Poor,,AB
+5.0,35–44,Female,3.0,,Average,4.0,1.0,1.0,Poor,High School,AB
+2.0,55–64,Female,1.0,,Moderate,10.0,2.0,2.0,Good,,AB
+1.0,15–24,Female,3.0,,Moderate,10.0,2.0,2.0,Good,Less than High School,AB
+3.0,45–54,Male,3.0,,Moderate,6.0,1.0,1.0,Good,University,AB
+2.0,35–44,Male,2.0,Rural,Moderate,10.0,2.0,2.0,Good,University,QC
+3.0,55–64,Female,1.0,,High,4.0,1.0,1.0,Good,University,AB
+4.0,65+,Male,1.0,,Average,6.0,1.0,1.0,Poor,,AB
+1.0,35–44,Male,1.0,,Low,10.0,2.0,2.0,Good,High School,AB
+1.0,15–24,Male,3.0,,Low,10.0,2.0,1.0,Good,Less than High School,AB
+2.0,55–64,Female,3.0,,Very High,5.0,1.0,1.0,Good,University,AB
+2.0,65+,Male,5.0,,Average,6.0,1.0,1.0,Good,High School,AB
+3.0,45–54,Male,3.0,,Average,4.0,1.0,1.0,Good,High School,AB
+1.0,15–24,Female,3.0,,Low,10.0,2.0,2.0,Good,Less than High School,BC
+4.0,65+,Male,1.0,,Very High,3.0,1.0,1.0,Poor,,AB
+3.0,15–24,Female,3.0,,High,10.0,1.0,2.0,Good,Less than High School,AB
+3.0,55–64,Female,1.0,,Average,6.0,1.0,1.0,Good,,AB
+5.0,25–34,Female,3.0,,High,4.0,1.0,1.0,Poor,University,AB
+3.0,65+,Female,3.0,Urban,Average,6.0,1.0,1.0,Good,,ON
+4.0,45–54,Male,1.0,,High,6.0,1.0,1.0,Poor,,AB
+2.0,25–34,Male,1.0,,Average,10.0,1.0,2.0,Good,,AB
+3.0,25–34,Male,3.0,,High,6.0,1.0,1.0,Good,High School,AB
+4.0,25–34,Female,3.0,,Average,6.0,1.0,1.0,Poor,High School,AB
+1.0,25–34,Male,3.0,,Average,10.0,1.0,1.0,Good,High School,AB
+2.0,15–24,Female,3.0,,Low,10.0,2.0,2.0,Good,Less than High School,AB
+1.0,15–24,Female,3.0,,Average,10.0,2.0,2.0,Good,Less than High School,AB
+3.0,45–54,Male,1.0,,Moderate,10.0,2.0,2.0,Good,High School,AB
+1.0,55–64,Male,1.0,,Low,10.0,2.0,2.0,Good,University,AB
+3.0,15–24,Female,3.0,,Average,6.0,1.0,1.0,Good,Less than High School,AB
+3.0,45–54,Female,1.0,,High,6.0,2.0,2.0,Good,,AB
+1.0,25–34,Male,3.0,Rural,Low,10.0,2.0,2.0,Good,High School,QC
+1.0,65+,Male,1.0,,High,10.0,1.0,2.0,Good,University,AB
+2.0,55–64,Male,1.0,,High,10.0,2.0,2.0,Good,University,AB
+3.0,65+,Female,4.0,,High,5.0,2.0,1.0,Good,University,AB
+3.0,45–54,Male,3.0,Rural,Average,6.0,1.0,2.0,Good,High School,QC
+1.0,15–24,Male,3.0,,Average,10.0,2.0,1.0,Good,Less than High School,AB
+3.0,65+,Female,5.0,,Average,3.0,1.0,1.0,Good,High School,AB
+1.0,55–64,Male,2.0,Rural,High,10.0,2.0,2.0,Good,University,QC
+3.0,45–54,Male,3.0,,Moderate,10.0,1.0,1.0,Good,,BC
+1.0,65+,Male,1.0,,Average,10.0,2.0,2.0,Good,,AB
+3.0,25–34,Female,2.0,,High,10.0,1.0,1.0,Good,University,AB
+1.0,65+,Female,1.0,,Average,10.0,2.0,2.0,Good,University,AB
+3.0,65+,Female,3.0,,Average,6.0,1.0,1.0,Good,,AB
+5.0,15–24,Male,3.0,,Moderate,3.0,1.0,1.0,Poor,Less than High School,AB
+2.0,25–34,Male,3.0,,Moderate,5.0,1.0,2.0,Good,High School,AB
+1.0,55–64,Male,2.0,Urban,High,10.0,1.0,1.0,Good,High School,ON
+1.0,25–34,Female,3.0,,Average,5.0,1.0,1.0,Good,High School,AB
+2.0,55–64,Male,1.0,,Average,10.0,2.0,2.0,Good,,AB
+1.0,45–54,Female,1.0,,Average,10.0,2.0,2.0,Good,University,AB
+2.0,55–64,Male,2.0,,Average,10.0,1.0,2.0,Good,,AB
+1.0,25–34,Female,3.0,,Average,10.0,1.0,1.0,Good,,AB
+5.0,35–44,Female,3.0,,Average,2.0,1.0,1.0,Poor,University,AB
+5.0,25–34,Female,3.0,,High,5.0,1.0,1.0,Poor,High School,AB
+3.0,45–54,Female,1.0,,Average,6.0,2.0,1.0,Good,,AB
+1.0,55–64,Female,1.0,,Moderate,10.0,2.0,2.0,Good,,AB
+2.0,15–24,Female,3.0,Rural,Moderate,6.0,1.0,1.0,Good,Less than High School,QC
+2.0,65+,Male,1.0,,Average,5.0,1.0,1.0,Good,,AB
+1.0,65+,Male,1.0,,Low,10.0,1.0,2.0,Good,University,AB
+4.0,15–24,Female,3.0,Rural,High,6.0,1.0,1.0,Poor,Less than High School,QC
+3.0,65+,Female,4.0,,High,10.0,2.0,2.0,Good,University,AB
+2.0,45–54,Male,3.0,,Average,10.0,1.0,2.0,Good,,AB
+2.0,45–54,Female,3.0,,Average,5.0,1.0,1.0,Good,,BC
+4.0,65+,Female,3.0,,High,6.0,1.0,1.0,Poor,,AB
+4.0,25–34,Female,3.0,,Average,6.0,1.0,1.0,Poor,High School,AB
+3.0,65+,Female,3.0,,High,10.0,1.0,1.0,Good,College,AB
+4.0,15–24,Male,3.0,,Average,6.0,1.0,1.0,Poor,High School,AB
+2.0,45–54,Male,1.0,,Moderate,10.0,1.0,1.0,Good,University,BC
+1.0,15–24,Male,3.0,Urban,Moderate,10.0,2.0,2.0,Good,High School,ON
+4.0,65+,Female,3.0,,High,5.0,1.0,1.0,Poor,Less than High School,AB
+1.0,45–54,Female,1.0,Urban,Average,10.0,2.0,2.0,Good,University,ON
+1.0,35–44,Male,3.0,,Low,10.0,1.0,2.0,Good,Less than High School,AB
+1.0,45–54,Male,1.0,,Average,10.0,2.0,2.0,Good,,AB
+3.0,15–24,Female,3.0,,Average,10.0,1.0,2.0,Good,Less than High School,AB
+5.0,25–34,Male,3.0,,High,6.0,1.0,1.0,Poor,High School,AB
+4.0,25–34,Male,3.0,,High,4.0,1.0,1.0,Poor,,AB
+3.0,55–64,Female,2.0,,High,6.0,1.0,1.0,Good,,AB
+2.0,15–24,Female,3.0,,Average,10.0,1.0,2.0,Good,Less than High School,BC
+1.0,55–64,Male,2.0,,High,10.0,2.0,2.0,Good,Less than High School,AB
+4.0,55–64,Female,1.0,,Average,5.0,1.0,1.0,Poor,University,AB
+1.0,55–64,Male,3.0,,Average,10.0,2.0,2.0,Good,,AB
+1.0,55–64,Male,3.0,,Moderate,10.0,2.0,2.0,Good,University,AB
+4.0,65+,Male,4.0,Urban,Average,10.0,1.0,2.0,Poor,College,ON
+3.0,35–44,Female,3.0,,Average,6.0,1.0,1.0,Good,University,AB
+2.0,55–64,Male,1.0,,Average,10.0,2.0,2.0,Good,High School,AB
+1.0,55–64,Male,1.0,,Moderate,10.0,1.0,2.0,Good,,AB
+4.0,65+,Male,3.0,Urban,High,5.0,1.0,1.0,Poor,College,ON
+4.0,55–64,Female,1.0,,High,5.0,1.0,2.0,Poor,University,AB
+4.0,45–54,Male,3.0,,High,3.0,1.0,1.0,Poor,Less than High School,AB
+4.0,25–34,Female,3.0,Rural,Very High,6.0,1.0,1.0,Poor,,QC
+2.0,25–34,Female,1.0,Urban,Average,10.0,2.0,1.0,Good,,ON
+3.0,15–24,Male,3.0,Urban,Average,6.0,1.0,1.0,Good,Less than High School,ON
+3.0,55–64,Male,4.0,Rural,Moderate,6.0,1.0,2.0,Good,College,QC
+4.0,45–54,Female,3.0,Rural,Average,6.0,1.0,1.0,Poor,,QC
+2.0,65+,Male,1.0,Urban,Low,10.0,1.0,1.0,Good,University,ON
+3.0,65+,Female,3.0,Urban,Moderate,4.0,1.0,1.0,Good,,ON
+2.0,55–64,Female,1.0,,Low,10.0,1.0,2.0,Good,,AB
+5.0,25–34,Female,3.0,Urban,High,6.0,1.0,1.0,Poor,,ON
+4.0,65+,Female,2.0,Rural,Very High,5.0,1.0,1.0,Poor,University,QC
+4.0,15–24,Male,3.0,,Average,6.0,1.0,1.0,Poor,High School,AB
+1.0,65+,Male,1.0,,Low,10.0,2.0,2.0,Good,University,AB
+2.0,45–54,Female,1.0,,Average,10.0,1.0,1.0,Good,University,BC
+4.0,35–44,Female,3.0,,High,5.0,1.0,1.0,Poor,,AB
+2.0,65+,Male,3.0,Urban,Average,3.0,1.0,2.0,Good,High School,ON
+1.0,65+,Male,1.0,,Low,10.0,1.0,2.0,Good,High School,AB
+1.0,45–54,Male,1.0,Rural,Moderate,10.0,2.0,2.0,Good,High School,QC
+4.0,25–34,Male,3.0,,High,6.0,1.0,1.0,Poor,High School,BC
+4.0,15–24,Male,3.0,,Moderate,6.0,2.0,1.0,Poor,High School,AB
+1.0,35–44,Female,3.0,Urban,Average,10.0,2.0,1.0,Good,,ON
+3.0,25–34,Male,3.0,,High,5.0,1.0,1.0,Good,High School,AB
+5.0,65+,Female,1.0,Urban,High,4.0,1.0,1.0,Poor,,ON
+3.0,45–54,Male,1.0,,Average,6.0,2.0,2.0,Good,College,AB
+4.0,55–64,Male,3.0,,High,5.0,1.0,1.0,Poor,University,AB
+4.0,55–64,Female,3.0,,High,6.0,1.0,1.0,Poor,University,AB
+3.0,25–34,Male,3.0,Urban,Average,10.0,1.0,1.0,Good,High School,ON
+3.0,55–64,Male,2.0,,Average,10.0,2.0,1.0,Good,University,AB
+5.0,55–64,Male,1.0,Rural,Average,5.0,1.0,1.0,Poor,University,QC
+1.0,45–54,Female,1.0,,Moderate,10.0,2.0,2.0,Good,,BC
+1.0,55–64,Male,1.0,,Low,10.0,2.0,2.0,Good,High School,AB
+4.0,55–64,Male,1.0,,Average,6.0,1.0,1.0,Poor,,AB
+5.0,55–64,Female,3.0,,Average,5.0,2.0,2.0,Poor,,AB
+4.0,65+,Female,1.0,,High,4.0,1.0,1.0,Poor,,AB
+3.0,45–54,Female,2.0,,Moderate,10.0,1.0,1.0,Good,,AB
+3.0,55–64,Female,1.0,,Average,10.0,2.0,1.0,Good,University,AB
+4.0,25–34,Male,3.0,,Average,6.0,1.0,1.0,Poor,,BC
+1.0,55–64,Male,1.0,,Low,10.0,2.0,2.0,Good,,AB
+4.0,45–54,Male,3.0,,Average,6.0,1.0,1.0,Poor,,AB
+3.0,65+,Female,3.0,,Average,6.0,1.0,1.0,Good,University,AB
+1.0,35–44,Male,3.0,,Moderate,10.0,2.0,2.0,Good,,AB
+1.0,55–64,Female,1.0,,Moderate,10.0,2.0,2.0,Good,University,AB
+1.0,65+,Male,4.0,,Average,10.0,1.0,2.0,Good,High School,BC
+3.0,25–34,Male,3.0,,High,6.0,1.0,1.0,Good,High School,AB
+4.0,25–34,Male,3.0,,Moderate,6.0,1.0,1.0,Poor,High School,AB
+2.0,45–54,Female,1.0,,Low,10.0,2.0,2.0,Good,University,BC
+4.0,45–54,Female,1.0,,Average,6.0,1.0,1.0,Poor,,AB
+4.0,55–64,Male,1.0,,High,5.0,1.0,1.0,Poor,,AB
+2.0,55–64,Male,3.0,,Moderate,10.0,2.0,2.0,Good,,AB
+5.0,45–54,Male,3.0,,Very High,5.0,1.0,1.0,Poor,Less than High School,AB
+3.0,35–44,Male,4.0,,High,5.0,2.0,1.0,Good,University,AB
+3.0,55–64,Male,1.0,,High,6.0,1.0,1.0,Good,,AB
+5.0,25–34,Female,3.0,,Moderate,5.0,1.0,1.0,Poor,High School,AB
+3.0,65+,Female,2.0,,Average,5.0,1.0,1.0,Good,University,AB
+4.0,55–64,Female,1.0,,Very High,10.0,1.0,1.0,Poor,High School,AB
+3.0,35–44,Male,1.0,,Moderate,10.0,1.0,1.0,Good,,AB
+4.0,55–64,Male,1.0,,High,6.0,1.0,1.0,Poor,,AB
+1.0,65+,Male,1.0,,Average,10.0,2.0,2.0,Good,High School,AB
+3.0,55–64,Female,1.0,,Average,5.0,1.0,1.0,Good,University,AB
+1.0,25–34,Female,3.0,,Moderate,10.0,2.0,2.0,Good,High School,AB
+4.0,65+,Male,3.0,,Average,6.0,1.0,2.0,Poor,College,BC
+1.0,35–44,Female,1.0,,Average,10.0,1.0,1.0,Good,High School,AB
+3.0,25–34,Female,3.0,,Average,2.0,1.0,1.0,Good,High School,AB
+1.0,65+,Male,1.0,,Low,10.0,2.0,2.0,Good,,AB
+4.0,65+,Male,3.0,,High,5.0,1.0,1.0,Poor,University,AB
+3.0,25–34,Female,3.0,,Average,6.0,1.0,1.0,Good,High School,AB
+3.0,65+,Female,4.0,,High,6.0,1.0,1.0,Good,University,AB
+1.0,15–24,Male,3.0,,Low,10.0,2.0,2.0,Good,Less than High School,AB
+4.0,45–54,Female,3.0,,High,6.0,1.0,1.0,Poor,High School,AB
+1.0,55–64,Female,1.0,,Moderate,10.0,1.0,2.0,Good,,AB
+4.0,35–44,Female,1.0,,High,5.0,1.0,1.0,Poor,,AB
+2.0,65+,Female,1.0,Urban,Average,4.0,2.0,2.0,Good,,ON
+1.0,55–64,Male,3.0,,Low,10.0,2.0,2.0,Good,,AB
+1.0,55–64,Female,1.0,,Average,10.0,1.0,2.0,Good,University,AB
+3.0,25–34,Male,3.0,,High,10.0,1.0,1.0,Good,University,AB
+4.0,25–34,Male,3.0,,Average,6.0,1.0,1.0,Poor,,AB
+1.0,55–64,Male,4.0,,Moderate,10.0,2.0,2.0,Good,,AB
+1.0,25–34,Male,3.0,,High,5.0,1.0,2.0,Good,University,AB
+4.0,25–34,Male,3.0,,Average,6.0,1.0,1.0,Poor,University,BC
+4.0,25–34,Male,3.0,,High,4.0,1.0,1.0,Poor,University,AB
+3.0,15–24,Female,3.0,,High,5.0,1.0,1.0,Good,High School,AB
+1.0,55–64,Female,1.0,,Average,5.0,2.0,2.0,Good,University,AB
+2.0,45–54,Male,3.0,,High,3.0,1.0,1.0,Good,University,AB
+1.0,55–64,Female,1.0,Rural,Average,10.0,2.0,2.0,Good,High School,QC
+4.0,15–24,Male,3.0,,Very High,6.0,1.0,1.0,Poor,Less than High School,BC
+1.0,25–34,Female,3.0,,Moderate,10.0,2.0,1.0,Good,University,AB
+2.0,55–64,Male,3.0,,Average,10.0,1.0,1.0,Good,University,AB
+1.0,55–64,Female,1.0,,Average,10.0,2.0,2.0,Good,,AB
+5.0,25–34,Female,3.0,,Very High,2.0,1.0,1.0,Poor,University,AB
+1.0,25–34,Male,3.0,,Moderate,10.0,2.0,2.0,Good,High School,AB
+1.0,65+,Female,1.0,,Average,10.0,2.0,1.0,Good,High School,AB
+3.0,25–34,Female,3.0,Urban,Average,5.0,1.0,1.0,Good,High School,ON
+4.0,45–54,Female,1.0,,Average,6.0,1.0,1.0,Poor,Less than High School,AB
+4.0,15–24,Female,3.0,,High,6.0,1.0,1.0,Poor,High School,AB
+4.0,35–44,Male,1.0,,Very High,5.0,1.0,1.0,Poor,,AB
+2.0,55–64,Female,3.0,Rural,Low,10.0,2.0,2.0,Good,College,QC
+4.0,15–24,Female,3.0,,Very High,4.0,1.0,1.0,Poor,Less than High School,AB
+1.0,15–24,Male,3.0,,Low,10.0,2.0,2.0,Good,Less than High School,AB
+4.0,25–34,Female,3.0,Rural,High,5.0,1.0,1.0,Poor,High School,QC
+4.0,25–34,Female,3.0,,Very High,2.0,1.0,1.0,Poor,,AB
+3.0,15–24,Female,3.0,,High,6.0,1.0,1.0,Good,Less than High School,AB
+3.0,55–64,Female,3.0,Rural,High,5.0,1.0,1.0,Good,University,QC
+1.0,15–24,Male,3.0,,Moderate,10.0,2.0,2.0,Good,Less than High School,AB
+2.0,55–64,Male,2.0,,High,10.0,1.0,1.0,Good,High School,AB
+4.0,35–44,Male,3.0,,High,5.0,1.0,1.0,Poor,,AB
+4.0,55–64,Female,1.0,,High,6.0,1.0,1.0,Poor,,AB
+2.0,65+,Male,1.0,,High,10.0,2.0,1.0,Good,College,AB
+4.0,25–34,Female,3.0,,High,5.0,1.0,1.0,Poor,Less than High School,AB
+1.0,65+,Male,1.0,,Low,10.0,2.0,2.0,Good,,AB
+1.0,65+,Male,1.0,Urban,Average,10.0,2.0,2.0,Good,High School,ON
+1.0,65+,Female,1.0,,Average,10.0,2.0,1.0,Good,,AB
+1.0,25–34,Female,1.0,,Low,10.0,2.0,2.0,Good,,AB
+5.0,25–34,Female,3.0,,Very High,6.0,1.0,1.0,Poor,,AB
+5.0,65+,Male,1.0,,High,6.0,1.0,1.0,Poor,,AB
+4.0,65+,Female,2.0,,Average,5.0,1.0,1.0,Poor,University,AB
+4.0,65+,Male,1.0,,High,5.0,1.0,1.0,Poor,College,AB
+4.0,55–64,Male,4.0,,High,5.0,1.0,1.0,Poor,High School,AB
+1.0,55–64,Male,1.0,,Moderate,10.0,2.0,2.0,Good,,AB
+3.0,25–34,Female,3.0,,Moderate,10.0,2.0,2.0,Good,High School,AB
+3.0,65+,Male,4.0,,Low,6.0,1.0,2.0,Good,High School,BC
+3.0,35–44,Male,3.0,Rural,Average,5.0,1.0,1.0,Good,,QC
+3.0,55–64,Female,3.0,Rural,High,6.0,1.0,1.0,Good,,QC
+5.0,25–34,Female,3.0,,High,5.0,1.0,1.0,Poor,Less than High School,BC
+1.0,55–64,Male,2.0,,High,10.0,1.0,1.0,Good,,AB
+5.0,15–24,Female,3.0,,High,6.0,1.0,1.0,Poor,Less than High School,AB
+4.0,35–44,Male,3.0,,Average,6.0,1.0,1.0,Poor,,AB
+4.0,45–54,Male,3.0,,Average,6.0,1.0,1.0,Poor,High School,AB
+5.0,65+,Male,1.0,,High,5.0,1.0,1.0,Poor,College,AB
+4.0,65+,Female,4.0,,High,2.0,1.0,1.0,Poor,College,AB
+1.0,45–54,Male,2.0,,Average,10.0,1.0,2.0,Good,,BC
+4.0,25–34,Male,3.0,Urban,Very High,3.0,1.0,1.0,Poor,High School,ON
+2.0,55–64,Female,1.0,,Moderate,6.0,2.0,2.0,Good,,AB
+3.0,45–54,Male,3.0,Rural,High,6.0,1.0,1.0,Good,,QC
+4.0,15–24,Female,3.0,,High,5.0,1.0,1.0,Poor,High School,AB
+3.0,65+,Male,1.0,,Average,5.0,1.0,1.0,Good,,AB
+1.0,65+,Male,1.0,,Low,10.0,2.0,2.0,Good,,AB
+1.0,65+,Female,1.0,Urban,Average,10.0,2.0,2.0,Good,,ON
+2.0,65+,Male,1.0,,Average,10.0,2.0,2.0,Good,High School,AB
+2.0,15–24,Male,3.0,,Moderate,10.0,1.0,1.0,Good,,AB
+3.0,55–64,Female,3.0,,Average,5.0,2.0,1.0,Good,,AB
+5.0,15–24,Female,3.0,,High,4.0,1.0,1.0,Poor,High School,AB
+4.0,25–34,Female,3.0,,High,6.0,1.0,1.0,Poor,High School,AB
+1.0,15–24,Male,3.0,,Moderate,10.0,2.0,2.0,Good,High School,AB
+3.0,25–34,Male,3.0,,Average,6.0,1.0,1.0,Good,,AB
+4.0,55–64,Female,1.0,,Average,5.0,1.0,1.0,Poor,University,AB
+4.0,15–24,Female,3.0,,High,5.0,2.0,1.0,Poor,Less than High School,AB
+5.0,15–24,Female,3.0,,High,6.0,1.0,1.0,Poor,Less than High School,AB
+3.0,35–44,Female,3.0,,High,5.0,1.0,2.0,Good,,AB
+1.0,35–44,Male,3.0,,Moderate,10.0,2.0,2.0,Good,,AB
+3.0,45–54,Male,1.0,,Average,10.0,2.0,2.0,Good,,AB
+5.0,25–34,Female,3.0,,High,5.0,1.0,1.0,Poor,,AB
+3.0,15–24,Male,3.0,,Low,6.0,1.0,2.0,Good,High School,AB
+3.0,15–24,Female,3.0,,Average,6.0,1.0,2.0,Good,High School,AB
+1.0,25–34,Female,3.0,,Moderate,10.0,2.0,2.0,Good,High School,AB
+4.0,55–64,Male,3.0,,Average,6.0,1.0,1.0,Poor,,AB
+3.0,55–64,Female,1.0,,High,10.0,2.0,2.0,Good,College,AB
+5.0,55–64,Male,3.0,,Very High,2.0,1.0,1.0,Poor,,AB
+3.0,65+,Female,1.0,,Low,10.0,2.0,1.0,Good,,AB
+4.0,45–54,Female,3.0,,High,4.0,1.0,1.0,Poor,,AB
+1.0,35–44,Male,3.0,Urban,Average,10.0,2.0,2.0,Good,University,ON
+3.0,25–34,Female,3.0,,Average,6.0,1.0,1.0,Good,,AB
+5.0,15–24,Female,3.0,Rural,Very High,3.0,1.0,1.0,Poor,High School,QC
+3.0,45–54,Male,1.0,,Average,10.0,2.0,2.0,Good,College,AB
+1.0,35–44,Female,3.0,,Moderate,10.0,2.0,2.0,Good,,AB
+3.0,65+,Male,4.0,,High,5.0,1.0,1.0,Good,University,BC
+2.0,65+,Female,3.0,,Low,6.0,1.0,2.0,Good,,AB
+3.0,25–34,Male,3.0,,High,6.0,1.0,1.0,Good,High School,AB
+4.0,15–24,Female,3.0,,Average,6.0,1.0,1.0,Poor,Less than High School,AB
+1.0,45–54,Male,1.0,Rural,Moderate,10.0,2.0,2.0,Good,,QC
+3.0,55–64,Male,1.0,Urban,Average,6.0,1.0,1.0,Good,University,ON
+4.0,65+,Female,3.0,Urban,Average,6.0,1.0,1.0,Poor,University,ON
+1.0,45–54,Female,1.0,Urban,Moderate,10.0,2.0,2.0,Good,,ON
+1.0,65+,Female,1.0,,Low,10.0,2.0,2.0,Good,,AB
+1.0,35–44,Male,1.0,Rural,Low,10.0,1.0,2.0,Good,University,QC
+1.0,15–24,Male,3.0,,Average,10.0,2.0,2.0,Good,High School,AB
+4.0,25–34,Male,3.0,Urban,High,4.0,1.0,1.0,Poor,High School,ON
+2.0,55–64,Female,1.0,,Moderate,10.0,1.0,1.0,Good,,AB
+4.0,15–24,Male,3.0,,Average,5.0,1.0,1.0,Poor,Less than High School,AB
+2.0,65+,Female,1.0,,Average,10.0,2.0,2.0,Good,,AB
+1.0,15–24,Male,3.0,,Moderate,10.0,2.0,2.0,Good,High School,BC
+3.0,35–44,Male,3.0,,High,6.0,1.0,1.0,Good,University,AB
+2.0,55–64,Female,1.0,,Average,10.0,1.0,2.0,Good,University,BC
+3.0,55–64,Female,4.0,,Average,10.0,2.0,2.0,Good,High School,AB
+3.0,35–44,Female,3.0,,Moderate,4.0,1.0,1.0,Good,University,AB
+1.0,45–54,Female,2.0,,Average,10.0,2.0,2.0,Good,University,AB
+4.0,55–64,Male,2.0,,High,6.0,1.0,1.0,Poor,,AB
+1.0,45–54,Female,1.0,,Average,10.0,2.0,2.0,Good,High School,AB
+1.0,25–34,Male,3.0,,Moderate,10.0,2.0,1.0,Good,,BC
+1.0,65+,Female,1.0,Urban,Moderate,10.0,2.0,2.0,Good,High School,ON
+4.0,25–34,Female,3.0,,Average,6.0,1.0,1.0,Poor,,AB
+3.0,55–64,Male,1.0,,Very High,5.0,1.0,1.0,Good,,AB
+4.0,35–44,Female,3.0,,High,6.0,1.0,1.0,Poor,University,AB
+4.0,55–64,Male,2.0,,High,3.0,1.0,1.0,Poor,University,AB
+4.0,25–34,Female,3.0,,Average,6.0,2.0,1.0,Poor,,AB
+1.0,15–24,Female,3.0,,Moderate,10.0,2.0,2.0,Good,,AB
+5.0,45–54,Female,1.0,,High,6.0,1.0,1.0,Poor,,AB
+3.0,25–34,Female,1.0,,Average,6.0,2.0,2.0,Good,,AB
+2.0,15–24,Male,3.0,,Moderate,10.0,1.0,2.0,Good,High School,AB
+5.0,45–54,Female,3.0,,Very High,5.0,1.0,1.0,Poor,High School,AB
+4.0,45–54,Male,3.0,,High,5.0,1.0,1.0,Poor,University,AB
+3.0,65+,Female,1.0,,Average,6.0,1.0,1.0,Good,University,AB
+5.0,55–64,Male,1.0,,High,10.0,2.0,2.0,Poor,,AB
+4.0,15–24,Male,3.0,Urban,High,6.0,1.0,1.0,Poor,High School,ON
+3.0,45–54,Female,1.0,,Average,6.0,1.0,1.0,Good,,AB
+4.0,45–54,Male,3.0,,Moderate,5.0,1.0,1.0,Poor,,AB
+4.0,15–24,Male,3.0,,Average,6.0,1.0,1.0,Poor,High School,AB
+1.0,65+,Male,1.0,,Average,10.0,2.0,2.0,Good,,AB
+1.0,25–34,Male,3.0,,Moderate,10.0,2.0,2.0,Good,High School,AB
+3.0,45–54,Female,2.0,,Moderate,10.0,1.0,2.0,Good,University,BC
+1.0,25–34,Male,3.0,,Moderate,10.0,2.0,2.0,Good,High School,AB
+4.0,55–64,Female,1.0,,High,5.0,1.0,1.0,Poor,,AB
+3.0,55–64,Male,3.0,,Low,5.0,2.0,2.0,Good,High School,AB
+1.0,25–34,Male,3.0,,Low,10.0,1.0,2.0,Good,University,AB
+5.0,55–64,Female,1.0,,High,5.0,1.0,1.0,Poor,,AB
+3.0,25–34,Female,3.0,,Average,6.0,1.0,1.0,Good,High School,AB
+2.0,65+,Male,1.0,,Low,10.0,2.0,2.0,Good,University,AB
+1.0,25–34,Male,3.0,,Moderate,10.0,2.0,2.0,Good,High School,AB
+4.0,25–34,Female,3.0,,Average,6.0,1.0,1.0,Poor,High School,AB
+5.0,25–34,Female,3.0,,High,6.0,1.0,1.0,Poor,High School,AB
+4.0,45–54,Male,2.0,,Average,6.0,1.0,1.0,Poor,High School,BC
+5.0,55–64,Female,1.0,,Very High,5.0,1.0,1.0,Poor,,AB
+4.0,25–34,Male,3.0,,High,6.0,1.0,1.0,Poor,University,AB
+3.0,25–34,Female,3.0,,High,6.0,1.0,1.0,Good,,AB
+1.0,15–24,Male,3.0,,Moderate,10.0,2.0,2.0,Good,Less than High School,AB
+5.0,65+,Male,1.0,,Low,10.0,2.0,2.0,Poor,College,AB
+3.0,15–24,Male,3.0,,Average,6.0,1.0,1.0,Good,Less than High School,AB
+2.0,25–34,Female,3.0,,Moderate,6.0,1.0,1.0,Good,High School,AB
+4.0,25–34,Female,3.0,,Moderate,6.0,1.0,1.0,Poor,,AB
+1.0,35–44,Female,1.0,,Moderate,10.0,2.0,2.0,Good,University,BC
+3.0,45–54,Male,3.0,,Moderate,10.0,2.0,2.0,Good,High School,AB
+1.0,65+,Female,1.0,,Average,10.0,2.0,2.0,Good,,AB
+3.0,15–24,Male,3.0,,Low,10.0,2.0,1.0,Good,Less than High School,AB
+1.0,65+,Male,1.0,,Average,10.0,1.0,1.0,Good,High School,AB
+5.0,55–64,Male,1.0,Rural,Very High,3.0,1.0,1.0,Poor,High School,QC
+3.0,25–34,Male,3.0,,High,3.0,1.0,1.0,Good,High School,AB
+1.0,35–44,Male,3.0,,High,5.0,1.0,2.0,Good,University,AB
+2.0,35–44,Female,2.0,,Moderate,10.0,1.0,1.0,Good,,AB
+4.0,55–64,Female,4.0,Urban,Very High,6.0,1.0,1.0,Poor,University,ON
+2.0,15–24,Female,3.0,Urban,Moderate,10.0,2.0,2.0,Good,High School,ON
+4.0,45–54,Male,3.0,,High,6.0,1.0,1.0,Poor,High School,BC
+2.0,45–54,Male,2.0,,Average,6.0,1.0,2.0,Good,,AB
+4.0,65+,Female,2.0,Urban,High,5.0,1.0,1.0,Poor,,ON
+5.0,35–44,Female,3.0,,Very High,0.0,1.0,1.0,Poor,High School,AB
+1.0,55–64,Female,1.0,,Low,10.0,2.0,2.0,Good,,AB
+4.0,15–24,Male,3.0,Rural,High,5.0,1.0,1.0,Poor,High School,QC
+1.0,25–34,Male,3.0,Urban,Moderate,10.0,1.0,1.0,Good,High School,ON
+1.0,55–64,Male,4.0,Urban,Low,10.0,2.0,2.0,Good,,ON
+3.0,25–34,Female,3.0,,High,6.0,1.0,1.0,Good,,AB
+1.0,45–54,Female,1.0,,Low,10.0,1.0,2.0,Good,High School,AB
+1.0,15–24,Male,3.0,Urban,Moderate,10.0,2.0,2.0,Good,Less than High School,ON
+1.0,25–34,Male,3.0,,Low,10.0,2.0,2.0,Good,University,AB
+4.0,35–44,Male,3.0,,Average,4.0,1.0,1.0,Poor,University,AB
+3.0,25–34,Male,3.0,,Average,6.0,1.0,1.0,Good,High School,AB
+4.0,15–24,Female,3.0,,High,4.0,1.0,1.0,Poor,High School,AB
+3.0,55–64,Male,1.0,,High,5.0,1.0,2.0,Good,College,AB
+1.0,45–54,Female,1.0,Urban,Average,10.0,2.0,2.0,Good,High School,ON
+2.0,25–34,Female,3.0,,High,10.0,2.0,2.0,Good,,AB
+3.0,55–64,Male,3.0,,Average,6.0,1.0,2.0,Good,University,AB
+2.0,65+,Female,1.0,,Average,10.0,2.0,2.0,Good,University,BC
+5.0,25–34,Male,3.0,,High,6.0,1.0,1.0,Poor,High School,BC
+1.0,25–34,Male,3.0,,Moderate,10.0,2.0,2.0,Good,High School,AB
+3.0,15–24,Female,3.0,,High,6.0,1.0,1.0,Good,Less than High School,AB
+3.0,25–34,Female,3.0,,Average,6.0,1.0,1.0,Good,High School,AB
+3.0,25–34,Male,3.0,,Low,10.0,1.0,1.0,Good,High School,AB
+2.0,65+,Female,1.0,Urban,Average,10.0,1.0,1.0,Good,,ON
+2.0,45–54,Female,1.0,,Average,10.0,2.0,1.0,Good,,AB
+3.0,45–54,Female,1.0,,Average,10.0,1.0,1.0,Good,,BC
+3.0,25–34,Male,3.0,,Moderate,10.0,2.0,2.0,Good,Less than High School,AB
+4.0,65+,Female,1.0,,Moderate,3.0,1.0,2.0,Poor,,AB
+4.0,45–54,Female,3.0,,High,4.0,1.0,1.0,Poor,,AB
+3.0,25–34,Female,3.0,,Average,6.0,1.0,1.0,Good,University,AB
+1.0,45–54,Male,1.0,Rural,Moderate,10.0,2.0,1.0,Good,University,QC
+5.0,25–34,Female,1.0,,High,5.0,2.0,1.0,Poor,Less than High School,AB
+1.0,45–54,Female,1.0,,Moderate,10.0,2.0,1.0,Good,,AB
+4.0,35–44,Male,3.0,,High,6.0,1.0,1.0,Poor,High School,AB
+2.0,65+,Female,1.0,,Average,10.0,2.0,2.0,Good,,AB
+1.0,35–44,Female,1.0,,Average,10.0,2.0,2.0,Good,,AB
+1.0,15–24,Male,3.0,,Low,10.0,2.0,2.0,Good,Less than High School,AB
+2.0,65+,Female,1.0,,Low,10.0,1.0,1.0,Good,,AB
+1.0,35–44,Female,1.0,,Moderate,10.0,1.0,2.0,Good,,BC
+4.0,25–34,Female,2.0,,High,6.0,1.0,1.0,Poor,,AB
+3.0,25–34,Female,3.0,,Average,6.0,1.0,1.0,Good,High School,AB
+4.0,65+,Female,1.0,,High,6.0,1.0,1.0,Poor,,BC
+3.0,65+,Female,1.0,,Average,5.0,1.0,1.0,Good,,AB
+1.0,55–64,Female,2.0,,Average,10.0,1.0,1.0,Good,,AB
+3.0,35–44,Female,3.0,,Low,6.0,1.0,1.0,Good,University,AB
+3.0,15–24,Female,3.0,,High,4.0,1.0,1.0,Good,Less than High School,AB
+3.0,65+,Male,1.0,,Low,10.0,2.0,2.0,Good,High School,AB
+1.0,55–64,Male,1.0,,Moderate,10.0,1.0,2.0,Good,University,AB
+3.0,55–64,Male,1.0,Urban,High,6.0,1.0,1.0,Good,University,ON
+1.0,65+,Female,1.0,,High,10.0,2.0,2.0,Good,,AB
+1.0,15–24,Female,3.0,,Moderate,10.0,2.0,2.0,Good,High School,AB
+5.0,65+,Male,3.0,Rural,Very High,4.0,1.0,1.0,Poor,University,QC
+1.0,25–34,Female,3.0,,Low,10.0,2.0,2.0,Good,High School,AB
+1.0,25–34,Male,3.0,,Moderate,10.0,2.0,2.0,Good,High School,AB
+2.0,25–34,Female,3.0,,Low,3.0,1.0,1.0,Good,,AB
+1.0,65+,Female,1.0,,Average,10.0,2.0,2.0,Good,University,AB
+2.0,15–24,Male,3.0,Rural,Average,10.0,1.0,1.0,Good,Less than High School,QC
+2.0,55–64,Female,1.0,,Low,10.0,2.0,2.0,Good,,AB
+4.0,35–44,Female,3.0,,Moderate,5.0,1.0,2.0,Poor,,AB
+4.0,65+,Female,1.0,,High,6.0,2.0,2.0,Poor,,AB
+1.0,65+,Male,1.0,Urban,Very High,10.0,1.0,2.0,Good,,ON
+4.0,65+,Female,3.0,,High,6.0,1.0,1.0,Poor,University,AB
+3.0,35–44,Male,3.0,,Average,6.0,2.0,1.0,Good,University,AB
+5.0,55–64,Female,4.0,Urban,High,0.0,1.0,1.0,Poor,,ON
+4.0,35–44,Female,3.0,,Average,10.0,1.0,1.0,Poor,University,AB
+4.0,25–34,Male,3.0,,High,6.0,1.0,1.0,Poor,High School,AB
+1.0,45–54,Female,1.0,,Moderate,10.0,1.0,1.0,Good,,AB
+2.0,45–54,Male,2.0,,High,10.0,1.0,1.0,Good,,AB
+4.0,25–34,Male,1.0,,Average,6.0,1.0,1.0,Poor,High School,AB
+2.0,35–44,Male,3.0,,Average,6.0,1.0,2.0,Good,University,AB
+3.0,45–54,Male,1.0,,Average,6.0,1.0,2.0,Good,,AB
+3.0,15–24,Female,3.0,,Average,6.0,1.0,1.0,Good,Less than High School,AB
+4.0,55–64,Male,1.0,,Average,3.0,1.0,2.0,Poor,High School,AB
+3.0,25–34,Male,3.0,Urban,High,6.0,1.0,1.0,Good,High School,ON
+3.0,55–64,Male,2.0,Rural,Moderate,10.0,2.0,2.0,Good,University,QC
+3.0,25–34,Male,3.0,,Average,5.0,1.0,2.0,Good,High School,AB
+5.0,25–34,Male,3.0,,High,5.0,1.0,1.0,Poor,,AB
+1.0,65+,Male,1.0,,Average,10.0,1.0,1.0,Good,,AB
+1.0,55–64,Female,1.0,,Average,10.0,2.0,1.0,Good,,AB
+1.0,55–64,Female,3.0,,Low,10.0,2.0,2.0,Good,University,AB
+4.0,55–64,Female,3.0,,Very High,3.0,1.0,1.0,Poor,,AB
+1.0,65+,Female,4.0,,Low,10.0,2.0,2.0,Good,,AB
+1.0,55–64,Male,1.0,,Moderate,10.0,2.0,2.0,Good,,BC
+3.0,55–64,Male,1.0,,High,4.0,1.0,1.0,Good,,AB
+3.0,55–64,Male,1.0,Urban,Average,5.0,1.0,1.0,Good,High School,ON
+2.0,25–34,Male,3.0,,Moderate,6.0,1.0,2.0,Good,University,AB
+1.0,45–54,Male,1.0,,Average,10.0,2.0,2.0,Good,,AB
+3.0,25–34,Female,3.0,,Average,6.0,1.0,1.0,Good,,AB
+4.0,25–34,Male,3.0,,High,6.0,1.0,1.0,Poor,High School,AB
+4.0,65+,Female,1.0,,Average,6.0,1.0,1.0,Poor,University,AB
+1.0,55–64,Female,1.0,,Low,10.0,2.0,2.0,Good,,AB
+2.0,65+,Male,4.0,Urban,High,6.0,1.0,1.0,Good,College,ON
+1.0,65+,Male,1.0,,Low,10.0,2.0,2.0,Good,High School,AB
+3.0,65+,Female,1.0,,Average,5.0,1.0,2.0,Good,,AB
+3.0,35–44,Male,3.0,Urban,Average,6.0,1.0,1.0,Good,,ON
+1.0,55–64,Male,3.0,,Low,10.0,2.0,2.0,Good,High School,AB
+1.0,55–64,Male,4.0,,Average,10.0,1.0,1.0,Good,,AB
+4.0,15–24,Male,3.0,,Very High,6.0,1.0,1.0,Poor,Less than High School,AB
+3.0,25–34,Female,3.0,Rural,Moderate,10.0,1.0,1.0,Good,High School,QC
+4.0,15–24,Female,3.0,,Average,5.0,1.0,1.0,Poor,University,AB
+3.0,25–34,Female,3.0,,Moderate,5.0,2.0,1.0,Good,College,AB
+3.0,45–54,Female,3.0,,Average,5.0,1.0,1.0,Good,University,AB
+5.0,25–34,Male,3.0,,Average,6.0,1.0,1.0,Poor,Less than High School,AB
+3.0,35–44,Male,3.0,Rural,Moderate,5.0,2.0,2.0,Good,,QC
+3.0,65+,Male,1.0,Urban,Low,10.0,1.0,1.0,Good,Less than High School,ON
+2.0,65+,Female,1.0,,Moderate,10.0,2.0,2.0,Good,,AB
+3.0,15–24,Female,3.0,,Low,5.0,2.0,2.0,Good,High School,AB
+4.0,25–34,Female,3.0,,Average,6.0,1.0,1.0,Poor,,AB
+4.0,15–24,Female,3.0,,Average,6.0,1.0,1.0,Poor,,AB
+2.0,15–24,Female,3.0,Rural,Low,10.0,1.0,1.0,Good,Less than High School,QC
+4.0,35–44,Female,3.0,,Average,6.0,1.0,1.0,Poor,,AB
+3.0,55–64,Female,1.0,Rural,Average,10.0,1.0,2.0,Good,College,QC
+3.0,55–64,Male,3.0,,Average,6.0,1.0,1.0,Good,,AB
+1.0,55–64,Female,2.0,,Average,10.0,1.0,1.0,Good,,AB
+3.0,45–54,Male,3.0,,High,5.0,1.0,1.0,Good,,AB
+1.0,35–44,Male,3.0,,High,5.0,2.0,2.0,Good,High School,AB
+3.0,25–34,Female,3.0,,Average,6.0,1.0,1.0,Good,,AB
+3.0,25–34,Male,3.0,,Average,4.0,1.0,1.0,Good,High School,AB
+1.0,25–34,Male,3.0,,Moderate,10.0,1.0,1.0,Good,,AB
+4.0,15–24,Female,3.0,,High,5.0,1.0,1.0,Poor,Less than High School,AB
+4.0,45–54,Female,2.0,,High,6.0,1.0,1.0,Poor,,AB
+3.0,15–24,Female,3.0,,Average,6.0,1.0,1.0,Good,High School,AB
+3.0,25–34,Female,3.0,,High,6.0,1.0,1.0,Good,High School,BC
+4.0,55–64,Female,1.0,,High,6.0,1.0,1.0,Poor,,AB
+2.0,55–64,Female,1.0,,Moderate,10.0,2.0,2.0,Good,University,AB
+2.0,55–64,Female,1.0,,Average,10.0,2.0,1.0,Good,,AB
+4.0,25–34,Male,3.0,,High,3.0,1.0,1.0,Poor,High School,AB
+4.0,25–34,Female,1.0,Rural,Average,5.0,1.0,1.0,Poor,College,QC
+4.0,65+,Male,3.0,,Average,2.0,1.0,1.0,Poor,High School,AB
+2.0,65+,Female,1.0,,Average,10.0,2.0,2.0,Good,High School,AB
+1.0,15–24,Male,3.0,,Average,10.0,1.0,1.0,Good,Less than High School,AB
+1.0,25–34,Female,3.0,,Average,10.0,1.0,1.0,Good,High School,AB
+3.0,25–34,Male,3.0,,Moderate,5.0,1.0,1.0,Good,High School,AB
+4.0,25–34,Female,3.0,,High,5.0,1.0,1.0,Poor,High School,AB
+3.0,65+,Male,4.0,,High,6.0,2.0,2.0,Good,,AB
+1.0,55–64,Male,1.0,,Average,10.0,1.0,2.0,Good,University,AB
+1.0,25–34,Male,3.0,,Moderate,10.0,2.0,1.0,Good,High School,AB
+1.0,65+,Male,2.0,,High,10.0,2.0,2.0,Good,Less than High School,AB
+1.0,25–34,Male,3.0,,Average,10.0,2.0,2.0,Good,High School,AB
+3.0,45–54,Female,2.0,Rural,Average,5.0,1.0,2.0,Good,High School,QC
+3.0,55–64,Male,2.0,,High,6.0,2.0,2.0,Good,College,AB
+3.0,25–34,Male,3.0,Urban,Average,6.0,1.0,1.0,Good,College,ON
+3.0,15–24,Female,3.0,,Average,6.0,1.0,1.0,Good,High School,AB
+4.0,25–34,Female,3.0,,High,6.0,1.0,1.0,Poor,University,AB
+4.0,65+,Male,1.0,,Average,4.0,1.0,1.0,Poor,College,AB
+3.0,65+,Female,4.0,,High,6.0,1.0,1.0,Good,,AB
+4.0,55–64,Male,4.0,,Very High,6.0,1.0,1.0,Poor,University,AB
+2.0,25–34,Female,3.0,,Average,6.0,1.0,1.0,Good,High School,AB
+3.0,65+,Male,1.0,,High,6.0,2.0,1.0,Good,,AB
+4.0,55–64,Female,1.0,Urban,Average,10.0,1.0,1.0,Poor,University,ON
+4.0,15–24,Female,3.0,,Average,6.0,1.0,1.0,Poor,Less than High School,AB
+1.0,25–34,Female,3.0,,Average,10.0,2.0,2.0,Good,High School,AB
+2.0,55–64,Female,3.0,,Average,5.0,1.0,2.0,Good,High School,AB
+2.0,15–24,Female,3.0,,High,10.0,2.0,2.0,Good,High School,AB
+3.0,55–64,Male,1.0,,Average,10.0,2.0,2.0,Good,,AB
+2.0,55–64,Female,1.0,,Moderate,10.0,2.0,2.0,Good,,BC
+4.0,65+,Male,3.0,,Moderate,4.0,1.0,1.0,Poor,,AB
+3.0,55–64,Female,3.0,,Average,6.0,2.0,2.0,Good,,AB
+3.0,65+,Male,1.0,,Average,10.0,2.0,2.0,Good,College,AB
+4.0,65+,Female,1.0,,High,5.0,2.0,2.0,Poor,University,AB
+3.0,45–54,Female,1.0,,High,6.0,1.0,1.0,Good,University,AB
+2.0,55–64,Male,1.0,,High,0.0,2.0,2.0,Good,Less than High School,AB
+3.0,35–44,Female,3.0,,Average,5.0,2.0,2.0,Good,University,AB
+3.0,55–64,Male,4.0,,Average,4.0,1.0,2.0,Good,,AB
+1.0,55–64,Male,1.0,,Low,10.0,2.0,2.0,Good,,AB
+4.0,15–24,Female,3.0,,Moderate,5.0,1.0,1.0,Poor,Less than High School,AB
+4.0,25–34,Female,1.0,Rural,Average,5.0,1.0,1.0,Poor,,QC
+4.0,25–34,Male,3.0,,High,6.0,1.0,1.0,Poor,,AB
+2.0,55–64,Male,1.0,,Average,10.0,1.0,1.0,Good,,BC
+4.0,35–44,Female,3.0,,Very High,6.0,1.0,1.0,Poor,High School,AB
+3.0,25–34,Male,3.0,,Low,10.0,2.0,2.0,Good,High School,AB
+3.0,35–44,Female,3.0,,Moderate,5.0,1.0,2.0,Good,High School,AB
+4.0,45–54,Male,3.0,,Moderate,5.0,1.0,2.0,Poor,University,AB
+1.0,15–24,Male,3.0,,High,10.0,1.0,1.0,Good,Less than High School,AB
+4.0,35–44,Male,3.0,Urban,High,6.0,1.0,1.0,Poor,College,ON
+2.0,15–24,Male,3.0,Urban,Moderate,6.0,1.0,1.0,Good,Less than High School,ON
+3.0,65+,Male,1.0,,Average,10.0,1.0,1.0,Good,High School,AB
+2.0,55–64,Male,4.0,,Moderate,10.0,1.0,1.0,Good,High School,AB
+1.0,55–64,Male,1.0,Urban,Moderate,10.0,1.0,2.0,Good,University,ON
+3.0,25–34,Male,3.0,,Average,6.0,1.0,1.0,Good,Less than High School,AB
+3.0,35–44,Female,3.0,,Average,10.0,2.0,2.0,Good,University,AB
+1.0,45–54,Male,2.0,Rural,High,10.0,2.0,2.0,Good,College,QC
+4.0,25–34,Female,3.0,,Average,4.0,1.0,1.0,Poor,High School,AB
+5.0,55–64,Male,1.0,,Moderate,4.0,1.0,2.0,Poor,,AB
+4.0,25–34,Male,3.0,,Very High,5.0,1.0,1.0,Poor,,BC
+4.0,65+,Male,1.0,,Average,5.0,1.0,2.0,Poor,University,AB
+1.0,55–64,Female,1.0,,Moderate,10.0,2.0,2.0,Good,,AB
+1.0,15–24,Female,3.0,,Moderate,10.0,2.0,2.0,Good,Less than High School,BC
+4.0,65+,Female,1.0,,Moderate,6.0,2.0,2.0,Poor,University,AB
+3.0,45–54,Female,1.0,,Low,10.0,2.0,2.0,Good,,AB
+4.0,25–34,Female,3.0,,High,5.0,1.0,1.0,Poor,High School,AB
+1.0,65+,Female,1.0,,Average,10.0,1.0,2.0,Good,High School,AB
+4.0,25–34,Male,3.0,,High,3.0,1.0,1.0,Poor,High School,AB
+3.0,25–34,Male,3.0,,Average,5.0,1.0,2.0,Good,High School,AB
+3.0,45–54,Male,1.0,,Very High,6.0,2.0,1.0,Good,,AB
+3.0,65+,Male,1.0,,Average,6.0,1.0,1.0,Good,,AB
+2.0,55–64,Male,1.0,,Average,6.0,1.0,2.0,Good,University,BC
+3.0,25–34,Male,3.0,,Average,6.0,1.0,1.0,Good,University,AB
+4.0,25–34,Male,3.0,,Very High,4.0,1.0,1.0,Poor,High School,AB
+3.0,15–24,Male,3.0,,Average,6.0,1.0,1.0,Good,High School,AB
+5.0,25–34,Female,3.0,,Very High,3.0,1.0,1.0,Poor,High School,AB
+3.0,25–34,Female,1.0,,Average,10.0,2.0,1.0,Good,,AB
+4.0,45–54,Female,3.0,,Average,6.0,1.0,1.0,Poor,,AB
+3.0,15–24,Male,3.0,Urban,Average,6.0,1.0,1.0,Good,Less than High School,ON
+2.0,25–34,Male,3.0,Rural,Average,10.0,1.0,1.0,Good,,QC
+2.0,55–64,Female,1.0,Urban,Average,10.0,1.0,1.0,Good,,ON
+5.0,55–64,Male,3.0,Urban,High,0.0,1.0,1.0,Poor,Less than High School,ON
+3.0,65+,Female,1.0,,Average,6.0,1.0,1.0,Good,University,AB
+1.0,55–64,Female,1.0,,Average,10.0,2.0,2.0,Good,,AB
+4.0,55–64,Male,1.0,Urban,Average,4.0,1.0,1.0,Poor,University,ON
+4.0,55–64,Male,3.0,,High,2.0,1.0,1.0,Poor,,AB
+5.0,25–34,Female,3.0,,Average,4.0,1.0,1.0,Poor,High School,AB
+2.0,45–54,Male,1.0,,Moderate,10.0,2.0,2.0,Good,University,BC
+1.0,45–54,Male,1.0,,High,10.0,2.0,2.0,Good,,AB
+3.0,35–44,Male,3.0,,Average,6.0,2.0,2.0,Good,,AB
+3.0,15–24,Female,3.0,,Average,6.0,1.0,1.0,Good,High School,AB
+2.0,25–34,Male,3.0,,Average,10.0,2.0,2.0,Good,University,AB
+3.0,45–54,Male,2.0,,Average,10.0,2.0,1.0,Good,High School,AB
+5.0,25–34,Male,3.0,,Average,3.0,1.0,1.0,Poor,,AB
+3.0,35–44,Male,3.0,,High,6.0,1.0,1.0,Good,,AB
+2.0,15–24,Male,3.0,,Average,5.0,1.0,2.0,Good,,AB
+2.0,15–24,Female,3.0,,Average,6.0,1.0,1.0,Good,High School,AB
+4.0,15–24,Male,3.0,,Average,6.0,1.0,1.0,Poor,High School,AB
+1.0,55–64,Female,4.0,,Moderate,10.0,2.0,1.0,Good,High School,AB
+3.0,55–64,Male,1.0,,High,6.0,1.0,1.0,Good,High School,AB
+4.0,55–64,Male,3.0,Urban,Average,6.0,1.0,2.0,Poor,University,ON
+2.0,55–64,Female,1.0,Rural,Average,10.0,1.0,1.0,Good,University,QC
+3.0,15–24,Male,3.0,,Average,6.0,2.0,2.0,Good,High School,AB
+5.0,15–24,Female,3.0,,Low,6.0,1.0,1.0,Poor,Less than High School,AB
+3.0,55–64,Male,1.0,,Very High,10.0,2.0,2.0,Good,High School,AB
+3.0,55–64,Female,1.0,Rural,Average,10.0,2.0,2.0,Good,Less than High School,QC
+2.0,55–64,Male,1.0,,Moderate,10.0,2.0,2.0,Good,High School,AB
+3.0,55–64,Female,1.0,,Moderate,10.0,2.0,1.0,Good,University,AB
+1.0,65+,Male,1.0,Rural,Low,10.0,2.0,2.0,Good,,QC
+4.0,65+,Female,1.0,,High,6.0,1.0,1.0,Poor,,AB
+3.0,15–24,Female,3.0,,High,10.0,2.0,1.0,Good,High School,BC
+2.0,55–64,Female,1.0,Rural,Average,10.0,1.0,1.0,Good,,QC
+3.0,55–64,Male,4.0,,High,6.0,2.0,2.0,Good,,AB
+4.0,65+,Female,3.0,Urban,Very High,6.0,1.0,1.0,Poor,,ON
+4.0,55–64,Female,1.0,,Average,5.0,1.0,2.0,Poor,,AB
+2.0,55–64,Female,1.0,,High,10.0,1.0,1.0,Good,University,AB
+5.0,45–54,Male,2.0,,High,6.0,1.0,1.0,Poor,,AB
+4.0,35–44,Male,3.0,,Very High,4.0,1.0,1.0,Poor,University,AB
+4.0,45–54,Female,1.0,,Average,4.0,1.0,1.0,Poor,,AB
+1.0,55–64,Female,1.0,,Low,10.0,2.0,2.0,Good,Less than High School,AB
+1.0,65+,Female,1.0,,High,5.0,1.0,2.0,Good,,AB
+1.0,55–64,Male,1.0,,Low,10.0,2.0,2.0,Good,,AB
+4.0,25–34,Female,2.0,Rural,Average,4.0,1.0,1.0,Poor,High School,QC
+3.0,65+,Male,1.0,,High,10.0,1.0,2.0,Good,,AB
+2.0,15–24,Female,3.0,,Moderate,10.0,2.0,1.0,Good,,AB
+4.0,45–54,Female,3.0,,High,5.0,1.0,1.0,Poor,College,AB
+1.0,65+,Male,4.0,,Low,10.0,2.0,2.0,Good,High School,AB
+4.0,25–34,Female,3.0,,Average,6.0,1.0,1.0,Poor,,AB
+3.0,55–64,Female,1.0,,Moderate,10.0,2.0,2.0,Good,University,AB
+3.0,25–34,Male,3.0,,Moderate,10.0,1.0,1.0,Good,University,AB
+3.0,45–54,Female,1.0,,Low,6.0,1.0,1.0,Good,,AB
+4.0,45–54,Male,1.0,,High,5.0,1.0,1.0,Poor,,AB
+2.0,55–64,Female,1.0,Rural,High,6.0,1.0,1.0,Good,University,QC
+1.0,55–64,Female,1.0,,Average,5.0,1.0,1.0,Good,,AB
+1.0,55–64,Female,2.0,,Average,10.0,1.0,1.0,Good,,AB
+3.0,65+,Male,1.0,,Average,6.0,2.0,1.0,Good,,AB
+1.0,55–64,Male,1.0,,Low,10.0,2.0,2.0,Good,,AB
+1.0,65+,Female,1.0,Urban,Low,10.0,2.0,2.0,Good,University,ON
+3.0,15–24,Female,3.0,,Average,6.0,1.0,2.0,Good,Less than High School,AB
+5.0,45–54,Female,4.0,,Very High,4.0,1.0,1.0,Poor,University,AB
+4.0,55–64,Male,4.0,,High,5.0,1.0,1.0,Poor,University,AB
+1.0,55–64,Male,1.0,,Low,10.0,2.0,2.0,Good,,AB
+3.0,25–34,Female,3.0,Urban,High,10.0,2.0,1.0,Good,University,ON
+3.0,45–54,Male,3.0,Rural,Low,3.0,1.0,1.0,Good,,QC
+2.0,65+,Female,1.0,Urban,Low,10.0,2.0,2.0,Good,University,ON
+1.0,15–24,Female,3.0,,Moderate,10.0,2.0,2.0,Good,Less than High School,AB
+5.0,15–24,Female,3.0,,Average,4.0,1.0,1.0,Poor,High School,AB
+1.0,25–34,Male,3.0,,Average,10.0,1.0,2.0,Good,High School,AB
+4.0,55–64,Female,3.0,,High,4.0,1.0,1.0,Poor,,BC
+2.0,55–64,Female,1.0,,Moderate,10.0,1.0,1.0,Good,,AB
+3.0,45–54,Female,2.0,,High,10.0,1.0,1.0,Good,University,AB
+2.0,15–24,Female,3.0,,Average,10.0,2.0,1.0,Good,Less than High School,AB
+3.0,35–44,Male,3.0,,Moderate,6.0,1.0,2.0,Good,,AB
+5.0,55–64,Male,2.0,,Average,10.0,1.0,1.0,Poor,Less than High School,BC
+3.0,25–34,Male,3.0,,High,10.0,1.0,1.0,Good,University,AB
+3.0,35–44,Male,2.0,,Moderate,6.0,1.0,1.0,Good,,AB
+4.0,15–24,Female,3.0,Urban,Very High,2.0,1.0,1.0,Poor,Less than High School,ON
+3.0,55–64,Male,1.0,,Average,5.0,2.0,2.0,Good,,AB
+3.0,55–64,Female,4.0,,Very High,5.0,1.0,1.0,Good,University,BC
+3.0,65+,Female,1.0,Urban,Very High,6.0,1.0,1.0,Good,,ON
+3.0,55–64,Female,3.0,,Average,6.0,1.0,1.0,Good,,BC
+3.0,15–24,Female,3.0,,Average,5.0,1.0,1.0,Good,Less than High School,AB
+4.0,55–64,Female,3.0,Urban,High,4.0,1.0,1.0,Poor,University,ON
+2.0,15–24,Female,3.0,,Moderate,10.0,2.0,1.0,Good,Less than High School,BC
+5.0,15–24,Female,3.0,,High,5.0,1.0,1.0,Poor,High School,AB
+3.0,45–54,Female,1.0,,Moderate,5.0,2.0,2.0,Good,Less than High School,AB
+2.0,55–64,Male,1.0,,Low,10.0,2.0,2.0,Good,University,AB
+3.0,55–64,Male,3.0,,Average,5.0,1.0,1.0,Good,Less than High School,AB
+2.0,15–24,Male,3.0,,Moderate,6.0,1.0,2.0,Good,High School,AB
+3.0,25–34,Female,3.0,Urban,Moderate,6.0,1.0,1.0,Good,,ON
+1.0,45–54,Female,1.0,Rural,Moderate,10.0,2.0,2.0,Good,High School,QC
+4.0,65+,Male,1.0,,High,2.0,1.0,1.0,Poor,,AB
+1.0,55–64,Male,1.0,Rural,Average,10.0,2.0,2.0,Good,College,QC
+1.0,25–34,Male,2.0,,Low,10.0,1.0,2.0,Good,College,BC
+1.0,35–44,Male,2.0,Rural,Average,10.0,2.0,2.0,Good,,QC
+1.0,25–34,Female,3.0,,Average,10.0,2.0,2.0,Good,High School,AB
+2.0,65+,Male,1.0,,Average,10.0,2.0,2.0,Good,,AB
+3.0,55–64,Female,1.0,Rural,High,6.0,1.0,1.0,Good,High School,QC
+3.0,35–44,Female,3.0,,High,10.0,2.0,1.0,Good,,AB
+5.0,25–34,Female,3.0,,Moderate,5.0,1.0,1.0,Poor,,AB
+1.0,35–44,Female,3.0,,Low,10.0,2.0,1.0,Good,,AB
+4.0,25–34,Female,3.0,,Average,6.0,1.0,1.0,Poor,Less than High School,AB
+5.0,15–24,Female,3.0,Rural,High,3.0,1.0,1.0,Poor,High School,QC
+3.0,35–44,Male,3.0,,Average,5.0,1.0,1.0,Good,,AB
+1.0,15–24,Male,3.0,Urban,Moderate,10.0,2.0,2.0,Good,High School,ON
+1.0,45–54,Female,1.0,,Moderate,10.0,2.0,2.0,Good,,AB
+3.0,55–64,Female,1.0,Rural,Average,10.0,1.0,1.0,Good,,QC
+5.0,35–44,Female,3.0,,Average,4.0,1.0,1.0,Poor,,AB
+4.0,25–34,Male,3.0,,High,6.0,1.0,1.0,Poor,High School,AB
+2.0,55–64,Male,1.0,,Low,10.0,2.0,2.0,Good,Less than High School,AB
+4.0,45–54,Male,3.0,Rural,High,4.0,1.0,1.0,Poor,University,QC
+1.0,25–34,Female,3.0,,Moderate,10.0,2.0,2.0,Good,,AB
+1.0,25–34,Female,2.0,,Average,10.0,1.0,1.0,Good,University,BC
+1.0,65+,Female,4.0,,Low,10.0,2.0,2.0,Good,,AB
+2.0,65+,Male,1.0,,Moderate,10.0,1.0,2.0,Good,University,AB
+5.0,25–34,Male,3.0,,High,4.0,1.0,1.0,Poor,,AB
+3.0,25–34,Male,3.0,,Average,6.0,1.0,1.0,Good,University,AB
+3.0,55–64,Female,2.0,Urban,Average,10.0,1.0,1.0,Good,,ON
+3.0,25–34,Male,3.0,,Average,10.0,1.0,1.0,Good,,AB
+4.0,15–24,Female,3.0,,Average,6.0,1.0,1.0,Poor,High School,AB
+3.0,55–64,Male,1.0,,Moderate,6.0,1.0,1.0,Good,,AB
+1.0,55–64,Female,1.0,,Average,10.0,1.0,1.0,Good,High School,AB
+4.0,65+,Male,1.0,,Average,6.0,1.0,1.0,Poor,,AB
+5.0,25–34,Female,3.0,,Average,5.0,1.0,2.0,Poor,,AB
+4.0,15–24,Female,3.0,,Average,6.0,1.0,1.0,Poor,High School,AB
+3.0,55–64,Female,3.0,,Moderate,6.0,1.0,1.0,Good,,AB
+3.0,35–44,Male,3.0,Rural,Average,6.0,2.0,2.0,Good,High School,QC
+3.0,65+,Male,1.0,,Average,6.0,2.0,1.0,Good,,AB
+4.0,25–34,Female,3.0,,High,6.0,1.0,1.0,Poor,High School,AB
+2.0,55–64,Female,2.0,,High,10.0,1.0,2.0,Good,University,AB
+4.0,55–64,Female,1.0,,Average,5.0,1.0,1.0,Poor,,AB
+1.0,55–64,Female,1.0,,Moderate,10.0,2.0,2.0,Good,,AB
+3.0,55–64,Female,1.0,,Average,6.0,2.0,2.0,Good,,AB
+2.0,25–34,Male,3.0,,Average,6.0,1.0,1.0,Good,High School,AB
+4.0,15–24,Male,3.0,,High,6.0,1.0,1.0,Poor,College,AB
+2.0,35–44,Male,3.0,,Moderate,10.0,1.0,1.0,Good,High School,AB
+2.0,15–24,Female,3.0,,Moderate,10.0,2.0,2.0,Good,High School,AB
+3.0,55–64,Female,1.0,,Low,10.0,2.0,2.0,Good,University,AB
+4.0,15–24,Male,3.0,,Average,6.0,1.0,1.0,Poor,High School,AB
+3.0,25–34,Female,3.0,Urban,High,6.0,1.0,1.0,Good,High School,ON
+1.0,45–54,Male,1.0,,Average,10.0,1.0,2.0,Good,,BC
+3.0,25–34,Male,2.0,,Average,6.0,1.0,1.0,Good,High School,AB
+1.0,35–44,Male,2.0,,Average,10.0,1.0,2.0,Good,University,AB
+5.0,25–34,Male,3.0,,High,4.0,1.0,1.0,Poor,High School,AB
+4.0,25–34,Female,3.0,,High,6.0,1.0,1.0,Poor,,AB
+4.0,55–64,Female,1.0,,High,5.0,1.0,1.0,Poor,University,AB
+3.0,25–34,Female,3.0,,Moderate,6.0,1.0,1.0,Good,High School,AB
+3.0,25–34,Male,3.0,,Average,6.0,1.0,1.0,Good,,AB
+5.0,55–64,Male,1.0,,Very High,5.0,1.0,1.0,Poor,,AB
+3.0,55–64,Female,1.0,,Average,5.0,2.0,2.0,Good,,AB
+2.0,65+,Male,1.0,,Moderate,10.0,1.0,1.0,Good,University,AB
+1.0,65+,Male,4.0,,Moderate,10.0,1.0,1.0,Good,University,AB
+3.0,65+,Female,1.0,,Average,5.0,1.0,1.0,Good,,AB
+5.0,15–24,Female,3.0,Urban,High,5.0,1.0,1.0,Poor,Less than High School,ON
+1.0,35–44,Male,1.0,Urban,Average,10.0,2.0,2.0,Good,University,ON
+2.0,25–34,Male,3.0,,Average,5.0,1.0,2.0,Good,High School,AB
+2.0,55–64,Female,1.0,,High,10.0,1.0,2.0,Good,,BC
+1.0,55–64,Male,4.0,,Low,6.0,1.0,1.0,Good,College,BC
+1.0,65+,Male,1.0,Rural,Moderate,10.0,2.0,1.0,Good,High School,QC
+3.0,55–64,Male,1.0,,Moderate,10.0,1.0,1.0,Good,High School,AB
+3.0,65+,Female,1.0,,Average,6.0,1.0,1.0,Good,College,AB
+3.0,25–34,Male,3.0,,High,6.0,1.0,1.0,Good,University,AB
+2.0,65+,Male,1.0,,High,5.0,1.0,1.0,Good,High School,AB
+1.0,25–34,Female,3.0,,Average,10.0,2.0,2.0,Good,High School,AB
+5.0,35–44,Female,3.0,,Average,6.0,1.0,1.0,Poor,High School,AB
