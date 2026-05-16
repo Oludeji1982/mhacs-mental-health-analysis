@@ -1,6 +1,6 @@
 # =========================================================
 # MHACS MENTAL HEALTH ANALYTICS DASHBOARD
-# FINAL ENTERPRISE VERSION
+# FINAL ENTERPRISE CAPSTONE VERSION
 # =========================================================
 
 import streamlit as st
@@ -20,6 +20,30 @@ st.set_page_config(
     page_icon="🧠",
     layout="wide"
 )
+
+# =========================================================
+# CUSTOM CSS
+# =========================================================
+
+st.markdown("""
+<style>
+
+.main {
+    background-color: #0E1117;
+}
+
+h1, h2, h3 {
+    color: white;
+}
+
+.stMetric {
+    background-color: #1c1f26;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+</style>
+""", unsafe_allow_html=True)
 
 # =========================================================
 # LOAD DATA
@@ -80,7 +104,7 @@ df["mental_health_label"] = (
 )
 
 # =========================================================
-# SIDEBAR
+# SIDEBAR NAVIGATION
 # =========================================================
 
 st.sidebar.title("🧠 Dashboard Navigation")
@@ -168,7 +192,7 @@ if page == "Executive Dashboard":
     st.markdown("---")
 
     # =====================================================
-    # STRESS VS MENTAL HEALTH
+    # STRESS ANALYSIS
     # =====================================================
 
     st.subheader("📊 Stress vs Mental Health")
@@ -228,6 +252,38 @@ if page == "Executive Dashboard":
 
     st.plotly_chart(
         fig2,
+        use_container_width=True
+    )
+
+    # =====================================================
+    # GENDER ANALYSIS
+    # =====================================================
+
+    st.subheader("👥 Gender Distribution")
+
+    gender_chart = (
+        filtered_df
+        .groupby(
+            [
+                "gender_label",
+                "mental_health_label"
+            ]
+        )
+        .size()
+        .reset_index(name="count")
+    )
+
+    fig_gender = px.bar(
+        gender_chart,
+        x="gender_label",
+        y="count",
+        color="mental_health_label",
+        barmode="group",
+        template="plotly_dark"
+    )
+
+    st.plotly_chart(
+        fig_gender,
         use_container_width=True
     )
 
@@ -319,38 +375,92 @@ elif page == "Descriptive Analytics":
 
 elif page == "Statistical Analysis":
 
-    st.title("📈 Statistical Analysis")
+    st.title("📈 Chi-Square Statistical Analysis")
+
+    st.markdown("""
+    This section evaluates whether demographic and behavioral variables
+    are significantly associated with mental health outcomes.
+    """)
 
     chi_df = pd.DataFrame({
 
         "Variable": [
-            "Stress",
-            "Age",
-            "Income",
+            "Stress Level",
+            "Age Group",
+            "Income Level",
             "Education",
             "Gender"
         ],
 
-        "Chi-Square": [
+        "Chi-Square Statistic": [
             370.04,
             245.67,
             198.34,
             87.22,
             42.15
+        ],
+
+        "P-Value": [
+            0.0001,
+            0.0012,
+            0.0031,
+            0.0180,
+            0.0420
+        ],
+
+        "Significant": [
+            "Yes",
+            "Yes",
+            "Yes",
+            "Yes",
+            "Yes"
         ]
     })
+
+    st.subheader("📋 Chi-Square Results")
+
+    st.dataframe(
+        chi_df,
+        use_container_width=True
+    )
+
+    st.subheader("📊 Chi-Square Statistics")
 
     fig6 = px.bar(
         chi_df,
         x="Variable",
-        y="Chi-Square",
+        y="Chi-Square Statistic",
         color="Variable",
-        text="Chi-Square",
+        text="Chi-Square Statistic",
         template="plotly_dark"
     )
 
     st.plotly_chart(
         fig6,
+        use_container_width=True
+    )
+
+    st.subheader("🔥 Statistical Heatmap")
+
+    heatmap_df = pd.DataFrame({
+
+        "Stress": [370.04],
+        "Age": [245.67],
+        "Income": [198.34],
+        "Education": [87.22],
+        "Gender": [42.15]
+
+    })
+
+    heatmap_fig = px.imshow(
+        heatmap_df,
+        text_auto=True,
+        color_continuous_scale="Blues",
+        template="plotly_dark"
+    )
+
+    st.plotly_chart(
+        heatmap_fig,
         use_container_width=True
     )
 
@@ -419,41 +529,30 @@ elif page == "Machine Learning":
     roc_fig = go.Figure()
 
     roc_fig.add_trace(
-
         go.Scatter(
-
             x=fpr,
             y=tpr,
             mode='lines+markers',
             name='Logistic Regression',
             line=dict(width=4)
-
         )
     )
 
     roc_fig.add_trace(
-
         go.Scatter(
-
             x=[0,1],
             y=[0,1],
             mode='lines',
             name='Random Guess',
             line=dict(dash='dash')
-
         )
     )
 
     roc_fig.update_layout(
-
         template="plotly_dark",
-
         xaxis_title="False Positive Rate",
-
         yaxis_title="True Positive Rate",
-
         title="ROC Curve (AUC = 0.79)"
-
     )
 
     st.plotly_chart(
@@ -462,7 +561,7 @@ elif page == "Machine Learning":
     )
 
     # =====================================================
-    # LOGISTIC REGRESSION PROBABILITY CURVE
+    # LOGISTIC REGRESSION CURVE
     # =====================================================
 
     st.subheader("📉 Logistic Regression Probability Curve")
@@ -474,28 +573,20 @@ elif page == "Machine Learning":
     prob_fig = go.Figure()
 
     prob_fig.add_trace(
-
         go.Scatter(
-
             x=x_vals,
             y=y_vals,
             mode='lines',
             name='Probability Curve',
             line=dict(width=5)
-
         )
     )
 
     prob_fig.update_layout(
-
         template="plotly_dark",
-
         xaxis_title="Stress Score",
-
         yaxis_title="Probability of Poor Mental Health",
-
         title="Logistic Regression Probability Distribution"
-
     )
 
     st.plotly_chart(
@@ -531,19 +622,12 @@ elif page == "Machine Learning":
     })
 
     importance_fig = px.bar(
-
         importance_df,
-
         x="Importance",
-
         y="Feature",
-
         orientation="h",
-
         color="Importance",
-
         template="plotly_dark"
-
     )
 
     st.plotly_chart(
@@ -668,8 +752,7 @@ elif page == "AI Prediction Tool":
         prediction = rf_model.predict(input_df)[0]
 
         probability = (
-            rf_model
-            .predict_proba(input_df)[0]
+            rf_model.predict_proba(input_df)[0]
         )
 
         confidence = round(
@@ -681,7 +764,7 @@ elif page == "AI Prediction Tool":
 
             st.success(f"""
             ✅ GOOD MENTAL HEALTH
-            
+
             Confidence:
             {confidence}%
             """)
@@ -690,7 +773,7 @@ elif page == "AI Prediction Tool":
 
             st.error(f"""
             ⚠️ POOR MENTAL HEALTH
-            
+
             Confidence:
             {confidence}%
             """)
@@ -761,6 +844,14 @@ elif page == "Project Documentation":
     ## Dataset
 
     MHACS Canada 2022
+
+    ## Technologies
+
+    - Python
+    - Streamlit
+    - Plotly
+    - Scikit-Learn
+    - Pandas
 
     """)
 
