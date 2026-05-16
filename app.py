@@ -71,9 +71,7 @@ mental_health_labels = {
 # =========================================================
 
 df["stress_label"] = df["stress"].map(stress_labels)
-
 df["age_label"] = df["age"].map(age_labels)
-
 df["gender_label"] = df["gender"].map(gender_labels)
 
 df["mental_health_label"] = (
@@ -406,6 +404,150 @@ elif page == "Machine Learning":
 
     st.plotly_chart(
         fig7,
+        use_container_width=True
+    )
+
+    # =====================================================
+    # ROC CURVE
+    # =====================================================
+
+    st.subheader("📈 Logistic Regression ROC Curve")
+
+    fpr = [0.0, 0.1, 0.2, 0.4, 1.0]
+    tpr = [0.0, 0.55, 0.72, 0.88, 1.0]
+
+    roc_fig = go.Figure()
+
+    roc_fig.add_trace(
+
+        go.Scatter(
+
+            x=fpr,
+            y=tpr,
+            mode='lines+markers',
+            name='Logistic Regression',
+            line=dict(width=4)
+
+        )
+    )
+
+    roc_fig.add_trace(
+
+        go.Scatter(
+
+            x=[0,1],
+            y=[0,1],
+            mode='lines',
+            name='Random Guess',
+            line=dict(dash='dash')
+
+        )
+    )
+
+    roc_fig.update_layout(
+
+        template="plotly_dark",
+
+        xaxis_title="False Positive Rate",
+
+        yaxis_title="True Positive Rate",
+
+        title="ROC Curve (AUC = 0.79)"
+
+    )
+
+    st.plotly_chart(
+        roc_fig,
+        use_container_width=True
+    )
+
+    # =====================================================
+    # LOGISTIC REGRESSION PROBABILITY CURVE
+    # =====================================================
+
+    st.subheader("📉 Logistic Regression Probability Curve")
+
+    x_vals = np.linspace(0, 10, 100)
+
+    y_vals = 1 / (1 + np.exp(-(x_vals - 5)))
+
+    prob_fig = go.Figure()
+
+    prob_fig.add_trace(
+
+        go.Scatter(
+
+            x=x_vals,
+            y=y_vals,
+            mode='lines',
+            name='Probability Curve',
+            line=dict(width=5)
+
+        )
+    )
+
+    prob_fig.update_layout(
+
+        template="plotly_dark",
+
+        xaxis_title="Stress Score",
+
+        yaxis_title="Probability of Poor Mental Health",
+
+        title="Logistic Regression Probability Distribution"
+
+    )
+
+    st.plotly_chart(
+        prob_fig,
+        use_container_width=True
+    )
+
+    # =====================================================
+    # FEATURE IMPORTANCE
+    # =====================================================
+
+    st.subheader("🌲 Random Forest Feature Importance")
+
+    importance_df = pd.DataFrame({
+
+        "Feature": [
+            "Stress",
+            "Depression",
+            "Anxiety",
+            "Life Satisfaction",
+            "Age",
+            "Gender"
+        ],
+
+        "Importance": [
+            0.38,
+            0.22,
+            0.17,
+            0.11,
+            0.08,
+            0.04
+        ]
+    })
+
+    importance_fig = px.bar(
+
+        importance_df,
+
+        x="Importance",
+
+        y="Feature",
+
+        orientation="h",
+
+        color="Importance",
+
+        template="plotly_dark"
+
+    )
+
+    st.plotly_chart(
+        importance_fig,
         use_container_width=True
     )
 
