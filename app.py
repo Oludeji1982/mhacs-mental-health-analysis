@@ -661,8 +661,15 @@ st.sidebar.download_button(
 
 st.markdown("---")
 
-st.caption("""
-Developed by Oludeji Fashoro
-MS Data Analytics Capstone Project
+st.markdown("""
+<div style='text-align: center;
+            color: gray;
+            padding: 10px;
+            font-size: 16px;'>
+
+Developed by <b>Spring 2026 Group 2</b><br>
+MS Data Analytics Capstone Project<br>
 University of Niagara Falls Canada
-""")
+
+</div>
+""", unsafe_allow_html=True)
